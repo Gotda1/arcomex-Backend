@@ -1,0 +1,533 @@
+[
+    {
+        "CÓDIGO": "L13030",
+        "NOMBRE": "LAMINADO BCA ESPERANZA  ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 280.17,
+        "IVA": 44.827200000000005,
+        "TOTAL": 324.9972
+    },
+    {
+        "CÓDIGO": "L14040",
+        "NOMBRE": "LAMINADO BCA ESPERANZA  ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 280.17,
+        "IVA": 44.827200000000005,
+        "TOTAL": 324.9972
+    },
+    {
+        "CÓDIGO": "L14060",
+        "NOMBRE": "LAMINADO BCA ESPERANZA ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 280.17,
+        "IVA": 44.827200000000005,
+        "TOTAL": 324.9972
+    },
+    {
+        "CÓDIGO": "L33030",
+        "NOMBRE": "LAMINADO BCA. MEXICANA ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 370.69,
+        "IVA": 59.3104,
+        "TOTAL": 430.0004
+    },
+    {
+        "CÓDIGO": "L34040",
+        "NOMBRE": "LAMINADO BCA. MEXICANA ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 370.69,
+        "IVA": 59.3104,
+        "TOTAL": 430.0004
+    },
+    {
+        "CÓDIGO": "L34060 ",
+        "NOMBRE": "LAMINADO BCA. MEXICANA ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 370.69,
+        "IVA": 59.3104,
+        "TOTAL": 430.0004
+    },
+    {
+        "CÓDIGO": "L43030",
+        "NOMBRE": "LAMINADO BCA. PACHUCA ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "L44040",
+        "NOMBRE": "LAMINADO BCA. PACHUCA ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "L44060 ",
+        "NOMBRE": "LAMINADO BCA. PACHUCA  ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "L53030",
+        "NOMBRE": "LAMINADO BCA. TINAJERO ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L54040",
+        "NOMBRE": "LAMINADO BCA. TINAJERO ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L54060 ",
+        "NOMBRE": "LAMINADO BCA. TINAJERO ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L63030",
+        "NOMBRE": "LAMINADO BRONCE ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L64040",
+        "NOMBRE": "LAMINADO BRONCE ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L64060",
+        "NOMBRE": "LAMINADO BRONCE ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L73030",
+        "NOMBRE": "LAMINADO CAFÉ II ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 193.965,
+        "IVA": 31.0344,
+        "TOTAL": 224.9994
+    },
+    {
+        "CÓDIGO": "L74040 ",
+        "NOMBRE": "LAMINADO CAFÉ II ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 193.965,
+        "IVA": 31.0344,
+        "TOTAL": 224.9994
+    },
+    {
+        "CÓDIGO": "L74060",
+        "NOMBRE": "LAMINADO CAFÉ II",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 193.965,
+        "IVA": 31.0344,
+        "TOTAL": 224.9994
+    },
+    {
+        "CÓDIGO": "L83030",
+        "NOMBRE": "LAMINADO CAFÉ GALINDO",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L84040 ",
+        "NOMBRE": "LAMINADO CAFÉ GALINDO",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L84060",
+        "NOMBRE": "LAMINADO CAFÉ GALINDO",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L103030 ",
+        "NOMBRE": "LAMINADO GRIS  ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L104040",
+        "NOMBRE": "LAMINADO GRIS ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L104060",
+        "NOMBRE": "LAMINADO GRIS  ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L113030",
+        "NOMBRE": "LAMINADO MOSTAZA ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L114040",
+        "NOMBRE": "LAMINADO MOSTAZA  ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L114060",
+        "NOMBRE": "LAMINADO MOSTAZA ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L123030",
+        "NOMBRE": "LAMINADO NARANJA",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L124040",
+        "NOMBRE": "LAMINADO NARANJA ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L124060",
+        "NOMBRE": "LAMINADO NARANJA ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L133030",
+        "NOMBRE": "LAMINADO NEGRA AMERICA ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L134040",
+        "NOMBRE": "LAMINADO NEGRA AMERICA  ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L134060",
+        "NOMBRE": "LAMINADO NEGRA AMERICA  ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L143030 ",
+        "NOMBRE": "LAMINADO PIÑÓN ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 194.83,
+        "IVA": 31.172800000000002,
+        "TOTAL": 226.0028
+    },
+    {
+        "CÓDIGO": "L144040",
+        "NOMBRE": "LAMINADO PIÑÓN ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 194.83,
+        "IVA": 31.172800000000002,
+        "TOTAL": 226.0028
+    },
+    {
+        "CÓDIGO": "L144060",
+        "NOMBRE": "LAMINADO PIÑÓN  ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 194.83,
+        "IVA": 31.172800000000002,
+        "TOTAL": 226.0028
+    },
+    {
+        "CÓDIGO": "L163030",
+        "NOMBRE": "LAMINADO PIÑON CAFÉ  ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L164040",
+        "NOMBRE": "LAMINADO PIÑON CAFÉ  ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L164060",
+        "NOMBRE": "LAMINADO PIÑON CAFÉ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 206.895,
+        "IVA": 33.1032,
+        "TOTAL": 239.9982
+    },
+    {
+        "CÓDIGO": "L173030",
+        "NOMBRE": "LAMINADO ROSA ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L174040",
+        "NOMBRE": "LAMINADO ROSA  ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L174060",
+        "NOMBRE": "LAMINADO ROSA  ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 228.45,
+        "IVA": 36.552,
+        "TOTAL": 265.002
+    },
+    {
+        "CÓDIGO": "L184040",
+        "NOMBRE": "LAMINADO SAN ANDRES  ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 405.17,
+        "IVA": 64.8272,
+        "TOTAL": 469.9972
+    },
+    {
+        "CÓDIGO": "L184060",
+        "NOMBRE": "LAMINADO SAN ANDRES  ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 413.79,
+        "IVA": 66.2064,
+        "TOTAL": 479.9964
+    },
+    {
+        "CÓDIGO": "LRG3030",
+        "NOMBRE": "LAMINADO RECINTO GRIS PC ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRG4040",
+        "NOMBRE": "LAMINADO RECINTO GRIS PC ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRG4060",
+        "NOMBRE": "LAMINADO RECINTO GRIS PC ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRNC3030",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PC ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRNC4040 ",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PC ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRNC4060",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PC ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRNA3030",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PA ",
+        "MEDIDA CM": "30X30X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRNA4040",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PA ",
+        "MEDIDA CM": "40X40X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LRNA4060",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PA ",
+        "MEDIDA CM": "40X60X02",
+        "PESO KG": "40 kg",
+        "PRECIO X M2": 327.585,
+        "IVA": 52.413599999999995,
+        "TOTAL": 379.99859999999995
+    },
+    {
+        "CÓDIGO": "LT3",
+        "NOMBRE": "LAMINADO TICUL",
+        "MEDIDA CM": "30.5X30.5X1.3",
+        "PESO KG": "30 kg",
+        "PRECIO X M2": 357.76,
+        "IVA": 57.2416,
+        "TOTAL": 415.0016
+    },
+    {
+        "CÓDIGO": "LT4",
+        "NOMBRE": "LAMINADO TICUL ",
+        "MEDIDA CM": "40.6X40.6X1.3",
+        "PESO KG": "30 kg",
+        "PRECIO X M2": 405.17,
+        "IVA": 64.8272,
+        "TOTAL": 469.9972
+    },
+    {
+        "CÓDIGO": "LC3",
+        "NOMBRE": "LAMINADO CONCHUELA ",
+        "MEDIDA CM": "30.5X30.5X1.3",
+        "PESO KG": "30 kg",
+        "PRECIO X M2": 357.76,
+        "IVA": 57.2416,
+        "TOTAL": 415.0016
+    },
+    {
+        "CÓDIGO": "LC4",
+        "NOMBRE": "LAMINADO CONCHUELA ",
+        "MEDIDA CM": "40.6X40.6X1.3",
+        "PESO KG": "30 kg",
+        "PRECIO X M2": 405.17,
+        "IVA": 64.8272,
+        "TOTAL": 469.9972
+    },
+    {
+        "CÓDIGO": "LB1",
+        "NOMBRE": "LOSETA DE BARRO ",
+        "MEDIDA CM": "30X30X01",
+        "PESO KG": "20 kg",
+        "PRECIO X M2": 224.14,
+        "IVA": 35.8624,
+        "TOTAL": 260.00239999999997
+    },
+    {
+        "CÓDIGO": "LB2",
+        "NOMBRE": "LOSETA DE BARRO ",
+        "MEDIDA CM": "15X30X01",
+        "PESO KG": "20 kg",
+        "PRECIO X M2": 215.52,
+        "IVA": 34.483200000000004,
+        "TOTAL": 250.00320000000002
+    }
+]

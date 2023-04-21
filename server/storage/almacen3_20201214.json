@@ -1,0 +1,62 @@
+[
+    {
+        "clave": "FL7",
+        "producto": "FACH CANTERMURO HERMOSA AGS 05X15",
+        "existencias": "38.5000"
+    },
+    {
+        "clave": "FP6",
+        "producto": "FACH PIEDRIN ROSA 10 X LL",
+        "existencias": "66.0000"
+    },
+    {
+        "clave": "FP7",
+        "producto": "FACH PIEDRIN NARANJA  10XLL", 
+        "existencias": "27.0000"
+    },
+    {
+        "clave": "L143040",
+        "producto": "LAMINADO PIÑON 30 X 40",
+        "existencias": "20.9200"
+    },
+    {
+        "clave": "L152040",
+        "producto": "LAMINADO PIÑON NARANJA 20 X 40",
+        "existencias": "7.2000"
+    },
+    {
+        "clave": "L24030",
+        "producto": "LAMINADO BCA LUXOR 40X30X02",
+        "existencias": "32.0000"
+    },
+    {
+        "clave": "L25040",
+        "producto": "LAMINADO BCA LUXOR 50X40X02",
+        "existencias": "18.4000"
+    },
+    {
+        "clave": "LMI",
+        "producto": "LAMINADO MADERA IN 40X60X1.5",
+        "existencias": "29.0800"
+    },
+    {
+        "clave": "MT5015",
+        "producto": "MOLDURA TICUL 50X15X03",
+        "existencias": "95.0000"
+    },
+    {
+        "clave": "TLAP1",
+        "producto": "TEJA  LAP MEDIA CAÑA 30",
+        "existencias": "58.0000"
+    },
+    {
+        "clave": "TLEO1",
+        "producto": "TEJA  LEO PLANA NATURAL LISA",
+        "existencias": "41.0000"
+    },
+    {
+        "clave": "TLEO2",
+        "producto": "TEJA  LEO PLANA NATURAL E",
+        "existencias": "87.0000"
+    }
+]

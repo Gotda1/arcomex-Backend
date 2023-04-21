@@ -1,0 +1,1049 @@
+[
+    {
+        "CODIGO": "APG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGATOP GRIS 20KG",
+        "PROV1": 25,
+        "PRECIO1": 57.48
+    },
+    {
+        "CODIGO": "APMG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAMARMOL GRIS 20KG",
+        "PROV1": 25,
+        "PRECIO1": 71.86
+    },
+    {
+        "CODIGO": "APMG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAMARMOL BCO 20KG",
+        "PROV1": 25,
+        "PRECIO1": 76.84
+    },
+    {
+        "CODIGO": "APVG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAVITRO GRIS 20KG",
+        "PROV1": 25,
+        "PRECIO1": 132.85
+    },
+    {
+        "CODIGO": "APVB20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAVITRO BCO 20KG",
+        "PROV1": 25,
+        "PRECIO1": 125.02
+    },
+    {
+        "CODIGO": "APG10",
+        "PRODUCTO": "ADHESIVO NIASA POLIMOR GRIS 10KG",
+        "PROV1": 25,
+        "PRECIO1": 140.54
+    },
+    {
+        "CODIGO": "APB10",
+        "PRODUCTO": "ADHESIVO NIASA POLIMOR BCO 10KG",
+        "PROV1": 25,
+        "PRECIO1": 154.83
+    },
+    {
+        "CODIGO": "FBN7.5",
+        "PRODUCTO": "FACH BARRO FLAM NEGRA 7.5X25X01",
+        "PROV1": 58,
+        "PRECIO1": 151
+    },
+    {
+        "CODIGO": "FBR7.5",
+        "PRODUCTO": "FACH BARRO FLAM.ROJA 7.5X25X01",
+        "PROV1": 58,
+        "PRECIO1": 151
+    },
+    {
+        "CODIGO": "FBNA7.5",
+        "PRODUCTO": "FACH BARRO NATURAL 7.5X25X01",
+        "PROV1": 58,
+        "PRECIO1": 145
+    },
+    {
+        "CODIGO": "FCGR5X15",
+        "PRODUCTO": "FACH CANTERMURO GAL ROJO 5X15",
+        "PROV1": 5,
+        "PRECIO1": 170
+    },
+    {
+        "CODIGO": "FCM5X15",
+        "PRODUCTO": "FACH CANTERMURO NEGRO 5X15",
+        "PROV1": 5,
+        "PRECIO1": 170
+    },
+    {
+        "PRODUCTO": "FACH DAMASCO MOKA ",
+        "PROV1": 79,
+        "PRECIO1": 270
+    },
+    {
+        "PRODUCTO": "FACH DAMASCO OBSIDIANA ",
+        "PROV1": 79,
+        "PRECIO1": 275
+    },
+    {
+        "CODIGO": "FG35X15",
+        "PRODUCTO": "FACH DP GRAFFITO 35X18",
+        "PROV1": 40,
+        "PRECIO1": 817.700011994722
+    },
+    {
+        "CODIGO": "FMB5X15",
+        "PRODUCTO": "FACH MARMURO BCO BEGO 5X15",
+        "PROV1": 27,
+        "PRECIO1": 260,
+        "PROV2": 3,
+        "PRECIO2": 280
+    },
+    {
+        "CODIGO": "FMD5X15",
+        "PRODUCTO": "FACH MARMURO DORADO 5X15",
+        "PROV1": 27,
+        "PRECIO1": 180,
+        "PROV2": 3,
+        "PRECIO2": 170
+    },
+    {
+        "CODIGO": "FMJ5X15",
+        "PRODUCTO": "FACH MARMURO JASPE 5X15",
+        "PROV1": 27,
+        "PRECIO1": 185,
+        "PROV2": 3,
+        "PRECIO2": 180
+    },
+    {
+        "CODIGO": "FMTB5X15",
+        "PRODUCTO": "FACH MARMURO TRAV. BEIGE 5X15",
+        "PROV1": 27,
+        "PRECIO1": 180,
+        "PROV2": 3,
+        "PRECIO2": 180
+    },
+    {
+        "CODIGO": "FMTR5X15",
+        "PRODUCTO": "FACH MARMURO TRAV. ROJO 5X15",
+        "PROV1": 27,
+        "PRECIO1": 200,
+        "PROV2": 3,
+        "PRECIO2": 180
+    },
+    {
+        "CODIGO": "FMTO5X15",
+        "PRODUCTO": "FACH MARMURO TRAV. ORO 5X15",
+        "PROV1": 27,
+        "PRECIO1": 200,
+        "PROV2": 3,
+        "PRECIO2": 180
+    },
+    {
+        "CODIGO": "FPG10",
+        "PRODUCTO": "FACH PIEDRIN BCA GALARZA 10XLL",
+        "PROV1": 27,
+        "PRECIO1": 155,
+        "PROV2": 3,
+        "PRECIO2": 120
+    },
+    {
+        "CODIGO": "FPO10",
+        "PRODUCTO": "FACH PIEDRIN ORO VIEJO 10XLL",
+        "PROV1": 27,
+        "PRECIO1": 230
+    },
+    {
+        "CODIGO": "FPST10",
+        "PRODUCTO": "FACH PIEDRIN STO TOMAS 10XLL",
+        "PROV1": 27,
+        "PRECIO1": 170
+    },
+    {
+        "CODIGO": "FPT10",
+        "PRODUCTO": "FACH PIEDRIN TLAYUA 10XLL",
+        "PROV1": 27,
+        "PRECIO1": 170,
+        "PROV2": 3,
+        "PRECIO2": 150
+    },
+    {
+        "PRODUCTO": "FACH  PRAGA INFINITY 5 X  LL",
+        "PROV1": 79,
+        "PRECIO1": 324
+    },
+    {
+        "PRODUCTO": "FACH PRAGA PERLA 5 X LL",
+        "PROV1": 79,
+        "PRECIO1": 324
+    },
+    {
+        "PRODUCTO": "FACH PRAGA SILVER 5 X LL",
+        "PROV1": 79,
+        "PRECIO1": 324
+    },
+    {
+        "CODIGO": "FRG5XLL",
+        "PRODUCTO": "FACH RAJUELA BCA GALARZA 5XLL",
+        "PROV1": 27,
+        "PRECIO1": 155,
+        "PROV2": 3,
+        "PRECIO2": 140
+    },
+    {
+        "CODIGO": "FRA10XLL",
+        "PRODUCTO": "FACH RAJUELA VERDE AQUA 5XLL",
+        "PROV1": 27,
+        "PRECIO1": 180,
+        "PROV2": 3,
+        "PRECIO2": 140
+    },
+    {
+        "CODIGO": "FRAVA5XLL",
+        "PRODUCTO": "FACH RAJUELA SAN ANDRES 10 X 5",
+        "PROV1": 82,
+        "PRECIO1": 270
+    },
+    {
+        "CODIGO": "FRD5XLL",
+        "PRODUCTO": "FACH RAJUELA DIAMANTINA 5XLL",
+        "PROV1": 27,
+        "PRECIO1": 250,
+        "PROV2": 3,
+        "PRECIO2": 195
+    },
+    {
+        "CODIGO": "FRNP5X15",
+        "PRODUCTO": "FACH RAJUELA NEGRA PIZARRA 5X15",
+        "PROV1": 27,
+        "PRECIO1": 220,
+        "PROV2": 3,
+        "PRECIO2": 200
+    },
+    {
+        "CODIGO": "FRNP5XLL",
+        "PRODUCTO": "FACH RAJUELA NEGRA PRETO 5XLL",
+        "PROV1": 27,
+        "PRECIO1": 180,
+        "PROV2": 3,
+        "PRECIO2": 160
+    },
+    {
+        "CODIGO": "FOE3XLL",
+        "PRODUCTO": "FACH RAJUELA OREJA ELEFANTE 3XLL",
+        "PROV1": 19,
+        "PRECIO1": 230
+    },
+    {
+        "CODIGO": "FOE5XLL",
+        "PRODUCTO": "FACH RAJUELA OREJA ELEFANTE 5XLL",
+        "PROV1": 19,
+        "PRECIO1": 220
+    },
+    {
+        "CODIGO": "FOE10XLL",
+        "PRODUCTO": "FACH RAJUELA OREJA ELEFANTE 10XLL",
+        "PROV1": 19,
+        "PRECIO1": 230
+    },
+    {
+        "CODIGO": "FSA3XLL",
+        "PRODUCTO": "FACH RAJUELA SAN ANDRES 3XLL",
+        "PROV1": 82,
+        "PRECIO1": 270,
+        "PROV2": 2,
+        "PRECIO2": 250
+    },
+    {
+        "CODIGO": "FSA5XLL",
+        "PRODUCTO": "FACH RAJUELA SAN ANDRES 5XLL",
+        "PROV1": 82,
+        "PRECIO1": 270,
+        "PROV2": 2,
+        "PRECIO2": 250
+    },
+    {
+        "CODIGO": "LG30X30",
+        "PRODUCTO": "LAMINADO GRIS 30X30X02",
+        "PROV1": 14,
+        "PRECIO1": 120,
+        "PROV2": 86,
+        "PRECIO2": 120
+    },
+    {
+        "CODIGO": "LG40X40",
+        "PRODUCTO": "LAMINADO GRIS 40X40X02",
+        "PROV1": 14,
+        "PRECIO1": 160,
+        "PROV2": 86,
+        "PRECIO2": 160
+    },
+    {
+        "CODIGO": "LG40X60",
+        "PRODUCTO": "LAMINADO GRIS 40X60X02",
+        "PROV1": 14,
+        "PRECIO1": 160,
+        "PROV2": 86,
+        "PRECIO2": 160
+    },
+    {
+        "CODIGO": "LM30X30",
+        "PRODUCTO": "LAMINADO MOSTAZA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 105
+    },
+    {
+        "CODIGO": "LM40X40",
+        "PRODUCTO": "LAMINADO MOSTAZA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 130
+    },
+    {
+        "CODIGO": "LM40X60",
+        "PRODUCTO": "LAMINADO MOSTAZA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 135
+    },
+    {
+        "CODIGO": "LN30X30",
+        "PRODUCTO": "LAMINADO NARANJA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 95
+    },
+    {
+        "CODIGO": "LN40X40",
+        "PRODUCTO": "LAMINADO NARANJA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 105
+    },
+    {
+        "CODIGO": "LN40X60",
+        "PRODUCTO": "LAMINADO NARANJA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 110
+    },
+    {
+        "CODIGO": "LBE30X30",
+        "PRODUCTO": "LAMINADO BCA ESPERANZA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 125
+    },
+    {
+        "CODIGO": "LNA30X30",
+        "PRODUCTO": "LAMINADO NEGRA AMERICA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 115,
+        "PROV2": 61,
+        "PRECIO2": 115,
+        "PROV3": 8,
+        "PRECIO3": 115
+    },
+    {
+        "CODIGO": "LNA40X40",
+        "PRODUCTO": "LAMINADO NEGRA AMERICA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 115,
+        "PROV2": 61,
+        "PRECIO2": 115,
+        "PROV3": 8,
+        "PRECIO3": 115
+    },
+    {
+        "CODIGO": "LNA40X60",
+        "PRODUCTO": "LAMINADO NEGRA AMERICA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 115,
+        "PROV2": 61,
+        "PRECIO2": 115,
+        "PROV3": 8,
+        "PRECIO3": 115
+    },
+    {
+        "CODIGO": "LBE40X40",
+        "PRODUCTO": "LAMINADO BCA ESPERANZA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 175
+    },
+    {
+        "CODIGO": "LBE40X60",
+        "PRODUCTO": "LAMINADO BCA ESPERANZA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 180
+    },
+    {
+        "CODIGO": "LP30X30",
+        "PRODUCTO": "LAMINADO PIÑON 30X30X02",
+        "PROV1": 67,
+        "PRECIO1": 120,
+        "PROV2": 63,
+        "PRECIO2": 130,
+        "PROV3": 53,
+        "PRECIO3": 130
+    },
+    {
+        "CODIGO": "LP40X40",
+        "PRODUCTO": "LAMINADO PIÑON 40X40X02",
+        "PROV1": 67,
+        "PRECIO1": 145,
+        "PROV2": 63,
+        "PRECIO2": 150,
+        "PROV3": 53,
+        "PRECIO3": 145,
+        "PROV4": 70,
+        "PRECIO4": 120
+    },
+    {
+        "CODIGO": "LP40X60",
+        "PRODUCTO": "LAMINADO PIÑON 40X60X02",
+        "PROV1": 67,
+        "PRECIO1": 145,
+        "PROV2": 63,
+        "PRECIO2": 150,
+        "PROV3": 53,
+        "PRECIO3": 145,
+        "PROV4": 70,
+        "PRECIO4": 145
+    },
+    {
+        "CODIGO": "LPC30X30",
+        "PRODUCTO": "LAMINADO PIÑON CAFE 30X30X02",
+        "PROV1": 67,
+        "PRECIO1": 120,
+        "PROV2": 63,
+        "PRECIO2": 130,
+        "PROV3": 53,
+        "PRECIO3": 130,
+        "PROV4": 70,
+        "PRECIO4": 145
+    },
+    {
+        "CODIGO": "LPC40X40",
+        "PRODUCTO": "LAMINADO PIÑON CAFE 40X40X02\r\n",
+        "PROV1": 67,
+        "PRECIO1": 150,
+        "PROV2": 63,
+        "PRECIO2": 130,
+        "PROV3": 53,
+        "PRECIO3": 130,
+        "PROV4": 70,
+        "PRECIO4": 120
+    },
+    {
+        "CODIGO": "LPC40X60",
+        "PRODUCTO": "LAMINADO PIÑON CAFE 40X60X02",
+        "PROV1": 67,
+        "PRECIO1": 150,
+        "PROV2": 63,
+        "PRECIO2": 150,
+        "PROV3": 53,
+        "PRECIO3": 145,
+        "PROV4": 70,
+        "PRECIO4": 120
+    },
+    {
+        "CODIGO": "LR30X30",
+        "PRODUCTO": "LAMINADO ROSA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 120,
+        "PROV4": 70,
+        "PRECIO4": 145
+    },
+    {
+        "CODIGO": "LR40X40",
+        "PRODUCTO": "LAMINADO ROSA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 130
+    },
+    {
+        "CODIGO": "LR40X60",
+        "PRODUCTO": "LAMINADO ROSA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 135
+    },
+    {
+        "PRODUCTO": "LAMINADO SAN ANDRES 40X40X02",
+        "PROV1": 2,
+        "PRECIO1": 220,
+        "PROV2": 82,
+        "PRECIO2": 250
+    },
+    {
+        "PRODUCTO": "LAMINADO GALINDO CHOCOLATE 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 135
+    },
+    {
+        "CODIGO": "LBM30X30",
+        "PRODUCTO": "LAMINADO BCA MEXICANA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 220
+    },
+    {
+        "CODIGO": "LBM40X40",
+        "PRODUCTO": "LAMINADO BCA MEXICANA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 240
+    },
+    {
+        "CODIGO": "LBM40X60",
+        "PRODUCTO": "LAMINADO BCA MEXICANA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 260
+    },
+    {
+        "CODIGO": "LBP30X30",
+        "PRODUCTO": "LAMINADO BCA PACHUCA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 185
+    },
+    {
+        "CODIGO": "LBP40X40",
+        "PRODUCTO": "LAMINADO BCA PACHUCA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 220
+    },
+    {
+        "CODIGO": "LBP40X60",
+        "PRODUCTO": "LAMINADO BCA PACHUCA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 225
+    },
+    {
+        "CODIGO": "LBT30X30",
+        "PRODUCTO": "LAMINADO BCA TINAJERO 30X30X02",
+        "PROV1": 36,
+        "PRECIO1": 120
+    },
+    {
+        "CODIGO": "LBT40X40",
+        "PRODUCTO": "LAMINADO BCA TINAJERO 40X40X02",
+        "PROV1": 36,
+        "PRECIO1": 160
+    },
+    {
+        "CODIGO": "LBT40X60",
+        "PRODUCTO": "LAMINADO BCA TINAJERO 40X60X02",
+        "PROV1": 36,
+        "PRECIO1": 160
+    },
+    {
+        "CODIGO": "LB30X30",
+        "PRODUCTO": "LAMINADO BRONCE 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 105
+    },
+    {
+        "CODIGO": "LB40X40",
+        "PRODUCTO": "LAMINADO BRONCE 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 130
+    },
+    {
+        "CODIGO": "LB40X60",
+        "PRODUCTO": "LAMINADO BRONCE 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 135
+    },
+    {
+        "CODIGO": "LCII30X30",
+        "PRODUCTO": "LAMINADO CAFE II 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 90
+    },
+    {
+        "CODIGO": "LCII40X40",
+        "PRODUCTO": "LAMINADO CAFE II 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 95
+    },
+    {
+        "CODIGO": "LCII40X60",
+        "PRODUCTO": "LAMINADO CAFE II 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 100
+    },
+    {
+        "CODIGO": "LGC30X30",
+        "PRODUCTO": "LAMINADO GALINDO CAFE 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 105
+    },
+    {
+        "CODIGO": "LGC40X40",
+        "PRODUCTO": "LAMINADO GALINDO CAFE 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 130
+    },
+    {
+        "CODIGO": "LGC40X60",
+        "PRODUCTO": "LAMINADO GALINDO CAFE 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 135
+    },
+    {
+        "CODIGO": "LGR30X30",
+        "PRODUCTO": "LAMINADO GALINDO ROJO 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 105
+    },
+    {
+        "CODIGO": "LGR40X40",
+        "PRODUCTO": "LAMINADO GALINDO ROJO 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 130
+    },
+    {
+        "CODIGO": "LGR40X60",
+        "PRODUCTO": "LAMINADO GALINDO ROJO 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 135
+    },
+    {
+        "CODIGO": "LBA30X30",
+        "PRODUCTO": "LOSETA DE BARRO 30X30X01",
+        "PROV1": 58,
+        "PRECIO1": 150
+    },
+    {
+        "CODIGO": "LBA15X30",
+        "PRODUCTO": "LOSETA DE BARRO 15X30X01",
+        "PROV1": 58,
+        "PRECIO1": 132
+    },
+    {
+        "CODIGO": "LC30.5X30.5",
+        "PRODUCTO": "LAMINADO CONCHUELA 30.5X30.5X1.3",
+        "PROV1": 55,
+        "PRECIO1": 210
+    },
+    {
+        "CODIGO": "LC40.6X40.6",
+        "PRODUCTO": "LAMINADO CONCHUELA 40.6X40.6X1.3",
+        "PROV1": 55,
+        "PRECIO1": 250
+    },
+    {
+        "CODIGO": "LIG",
+        "PRODUCTO": "LAJA IRREGULAR BCA GALARZA",
+        "PROV1": 27,
+        "PRECIO1": 90,
+        "PROV2": 3,
+        "PRECIO2": 100
+    },
+    {
+        "CODIGO": "LIP",
+        "PRODUCTO": "LAJA IRREGULAR PIÑON LISA",
+        "PROV1": 67,
+        "PRECIO1": 30,
+        "PROV2": 63,
+        "PRECIO2": 25
+    },
+    {
+        "CODIGO": "LISP",
+        "PRODUCTO": "LAJA IRREGULAR SANGRE DE PICHON ",
+        "PROV1": 27,
+        "PRECIO1": 100,
+        "PROV2": 3,
+        "PRECIO2": 120
+    },
+    {
+        "CODIGO": "LIT",
+        "PRODUCTO": "LAJA IRREGULAR TLAYUA",
+        "PROV1": 27,
+        "PRECIO1": 110,
+        "PROV2": 3,
+        "PRECIO2": 115
+    },
+    {
+        "CODIGO": "LIVM",
+        "PRODUCTO": "LAJA IRREGULAR VERDE MIXTECA",
+        "PROV1": 27,
+        "PRECIO1": 110,
+        "PROV2": 3,
+        "PRECIO2": 130
+    },
+    {
+        "CODIGO": "LID",
+        "PRODUCTO": "LAJA IRREGULAR BCA TINAJERO LISA ",
+        "PROV1": 36,
+        "PRECIO1": 80
+    },
+    {
+        "CODIGO": "LIG",
+        "PRODUCTO": "LAJA IRREGULAR DIAMANTINA",
+        "PROV1": 27,
+        "PRECIO1": 110,
+        "PROV2": 3,
+        "PRECIO2": 100
+    },
+    {
+        "CODIGO": "LINP",
+        "PRODUCTO": "LAJA IRREGULAR NEGRA PIZARRA",
+        "PROV1": 27,
+        "PRECIO1": 110,
+        "PROV2": 3,
+        "PRECIO2": 100
+    },
+    {
+        "CODIGO": "LIOE",
+        "PRODUCTO": "LAJA IRREGULAR OREJA ELEFANTE",
+        "PROV1": 19,
+        "PRECIO1": 80
+    },
+    {
+        "CODIGO": "LIOV",
+        "PRODUCTO": "LAJA IRREGULAR ORO VIEJO",
+        "PROV1": 27,
+        "PRECIO1": 190
+    },
+    {
+        "CODIGO": "LRGC30X30",
+        "PRODUCTO": "LAMINADO RECINTO GRIS PC 30X30X02",
+        "PROV1": 33,
+        "PRECIO1": 170
+    },
+    {
+        "CODIGO": "LRGC40X40",
+        "PRODUCTO": "LAMINADO RECINTO GRIS PC 40X40X02",
+        "PROV1": 33,
+        "PRECIO1": 170
+    },
+    {
+        "CODIGO": "LRGC40X60",
+        "PRODUCTO": "LAMINADO RECINTO GRIS PC 40X60X02",
+        "PROV1": 33,
+        "PRECIO1": 180
+    },
+    {
+        "CODIGO": "LRNA30X30",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PA 30X30X02",
+        "PROV1": 5,
+        "PRECIO1": 180
+    },
+    {
+        "CODIGO": "LRNA40X40",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PA 40X40X02",
+        "PROV1": 5,
+        "PRECIO1": 210
+    },
+    {
+        "CODIGO": "LRNA40X60",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PA 40X60X02",
+        "PROV1": 5,
+        "PRECIO1": 215
+    },
+    {
+        "CODIGO": "LRNC30X30",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PC 30X30X02",
+        "PROV1": 27,
+        "PRECIO1": 130
+    },
+    {
+        "CODIGO": "LRNC40X40",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PC 40X40X02",
+        "PROV1": 27,
+        "PRECIO1": 175
+    },
+    {
+        "CODIGO": "LRNC40X60",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PC 40X60X02",
+        "PROV1": 27,
+        "PRECIO1": 175
+    },
+    {
+        "CODIGO": "LT30.5X30.5",
+        "PRODUCTO": "LAMINADO TICUL 30.5X30.5X1.3",
+        "PROV1": 55,
+        "PRECIO1": 215
+    },
+    {
+        "CODIGO": "LT40.6X40.6",
+        "PRODUCTO": "LAMINADO TICUL 40.6X40.6X1.3",
+        "PROV1": 55,
+        "PRECIO1": 255
+    },
+    {
+        "CODIGO": "MA40",
+        "PRODUCTO": "MARMOL ARENA 40XLLX01",
+        "PROV1": 78,
+        "PRECIO1": 300,
+        "PROV2": 56,
+        "PRECIO2": 290,
+        "PROV3": 7,
+        "PRECIO3": 300
+    },
+    {
+        "CODIGO": "MA50",
+        "PRODUCTO": "MARMOL ARENA 50 X 90",
+        "PROV1": 78,
+        "PRECIO1": 350,
+        "PROV2": 56,
+        "PRECIO2": 390,
+        "PROV3": 7,
+        "PRECIO3": 350
+    },
+    {
+        "CODIGO": "MD30",
+        "PRODUCTO": "MALLA CUADRO 5 DOMINO 30 X 30",
+        "PROV1": 27,
+        "PRECIO1": 30
+    },
+    {
+        "CODIGO": "MCT30.5X30.5",
+        "PRODUCTO": "MARMOL CAFE TABACO 30.5X30.5X01",
+        "PROV1": 7,
+        "PRECIO1": 250
+    },
+    {
+        "CODIGO": "MCT40.6X40.6",
+        "PRODUCTO": "MARMOL CAFÉ TABACO 40.6X40.6X01",
+        "PROV1": 7,
+        "PRECIO1": 190
+    },
+    {
+        "CODIGO": "ML40.6",
+        "PRODUCTO": "MARMOL LISBOA 40.60 X LL",
+        "PROV1": 78,
+        "PRECIO1": 340
+    },
+    {
+        "CODIGO": "ML50.75",
+        "PRODUCTO": "MARMOL LISBOA 50.75 X 91.35",
+        "PROV1": 78,
+        "PRECIO1": 520
+    },
+    {
+        "CODIGO": "MST30.5",
+        "PRODUCTO": "MARMOL STO TOMAS 30.5X30.5X01",
+        "PROV1": 7,
+        "PRECIO1": 150
+    },
+    {
+        "CODIGO": "MST40.6",
+        "PRODUCTO": "MARMOL STO TOMAS 40.6X40.6X01",
+        "PROV1": 7,
+        "PRECIO1": 250
+    },
+    {
+        "CODIGO": "MST61",
+        "PRODUCTO": "MARMOL STO TOMAS 30.5X61X01",
+        "PROV1": 7,
+        "PRECIO1": 290
+    },
+    {
+        "CODIGO": "MTA30",
+        "PRODUCTO": "MALLA TROCHADO ARCOIRIS 30 X 30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTST30",
+        "PRODUCTO": "MALLA TRONCHADO STO TOMAS 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTR30",
+        "PRODUCTO": "MALLA TRONCHADO TRAV. ROJO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTBB30",
+        "PRODUCTO": "MALLA TRONCHADO BCO BEGO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTBE30",
+        "PRODUCTO": "MALLA TRONCHADO BCO BELAGIO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTCT30",
+        "PRODUCTO": "MALLA TRONCHADO CAFE TABACO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTP30",
+        "PRODUCTO": "MALLA TRONCHADO COLA PESCADO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTD30",
+        "PRODUCTO": "MALLA TRONCHADO DORADO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTN30",
+        "PRODUCTO": "MALLA TRONCHADO NEGRO 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTO30",
+        "PRODUCTO": "MALLA TRONCHADO ONIX 30X30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "MTRE30",
+        "PRODUCTO": "MALLA TROCHADO RECINTO 30 X 30",
+        "PROV1": 27,
+        "PRECIO1": 26
+    },
+    {
+        "CODIGO": "PMB",
+        "PRODUCTO": "PIEDRA DE MARMOL BLANCA 1 1/2\"  20KG ",
+        "PROV1": 29,
+        "PRECIO1": 120
+    },
+    {
+        "CODIGO": "PMA",
+        "PRODUCTO": "PIEDRA DE MARMOL AMARILLA 1 1/2\"  20KG ",
+        "PROV1": 29,
+        "PRECIO1": 155
+    },
+    {
+        "CODIGO": "PMR",
+        "PRODUCTO": "PIEDRA DE MARMOL ROSA 1 1/2\"  20KG ",
+        "PROV1": 29,
+        "PRECIO1": 155
+    },
+    {
+        "CODIGO": "RBG30X30",
+        "PRODUCTO": "RUSTICO BCA GALARZA 30X30",
+        "PROV1": 27,
+        "PRECIO1": 200,
+        "PRECIO2": 200
+    },
+    {
+        "CODIGO": "RBG30X60",
+        "PRODUCTO": "RUSTICO BCA GALARZA 30X60",
+        "PROV1": 27,
+        "PRECIO1": 250,
+        "PRECIO2": 240
+    },
+    {
+        "CODIGO": "RBG40X40",
+        "PRODUCTO": "RUSTICO BCA GALARZA 40X40",
+        "PROV1": 27,
+        "PRECIO1": 240,
+        "PRECIO2": 230
+    },
+    {
+        "CODIGO": "RBG40X60",
+        "PRODUCTO": "RUSTICO BCA GALARZA 40X60",
+        "PROV1": 27,
+        "PRECIO1": 260,
+        "PRECIO2": 250
+    },
+    {
+        "CODIGO": "RSA10",
+        "PRODUCTO": "RUSTICO SAN ANDRES 10X10 ",
+        "PROV1": 82,
+        "PRECIO1": 280
+    },
+    {
+        "CODIGO": "SM1",
+        "PRODUCTO": "SELLADOR DOMO MORADO 1 LT",
+        "PROV1": 26,
+        "PRECIO1": 155
+    },
+    {
+        "CODIGO": "SM4",
+        "PRODUCTO": "SELLADOR DOMO MORADO 4 LT",
+        "PROV1": 26,
+        "PRECIO1": 560
+    },
+    {
+        "CODIGO": "SM19",
+        "PRODUCTO": "SELLADOR DOMO MORADO 19 LT",
+        "PROV1": 26,
+        "PRECIO1": 2472
+    },
+    {
+        "CODIGO": "SN1",
+        "PRODUCTO": "SELLADOR DOMO NARANJA 1 LT",
+        "PROV1": 26,
+        "PRECIO1": 138
+    },
+    {
+        "CODIGO": "SN4",
+        "PRODUCTO": "SELLADOR DOMO NARANJA 4 LT ",
+        "PROV1": 26,
+        "PRECIO1": 452
+    },
+    {
+        "CODIGO": "SN19",
+        "PRODUCTO": "SELLADOR DOMO NARANJA  19 LT",
+        "PROV1": 26,
+        "PRECIO1": 1880
+    },
+    {
+        "CODIGO": "SNE1",
+        "PRODUCTO": "SELLADOR DOMO NEGRO 1 LT",
+        "PROV1": 26,
+        "PRECIO1": 138
+    },
+    {
+        "CODIGO": "SNE4",
+        "PRODUCTO": "SELLADOR DOMO NEGRO 4 LT",
+        "PROV1": 26,
+        "PRECIO1": 452
+    },
+    {
+        "CODIGO": "SNE19",
+        "PRODUCTO": "SELLADOR DOMO NEGRO 19 LT",
+        "PROV1": 26,
+        "PRECIO1": 1880
+    },
+    {
+        "CODIGO": "SV1",
+        "PRODUCTO": "SELLADOR DOMO VERDE 1 LT",
+        "PROV1": 26,
+        "PRECIO1": 138
+    },
+    {
+        "CODIGO": "SV4",
+        "PRODUCTO": "SELLADOR DOMO VERDE 4 LT ",
+        "PROV1": 26,
+        "PRECIO1": 452
+    },
+    {
+        "CODIGO": "SV19",
+        "PRODUCTO": "SELLADOR DOMO VERDE 19 LT",
+        "PROV1": 26,
+        "PRECIO1": 1880
+    },
+    {
+        "CODIGO": "LTF30.3",
+        "PRODUCTO": "TRAVERTINO FIORITO 30.3X30.5X01",
+        "PROV1": 21,
+        "PRECIO1": 160
+    },
+    {
+        "CODIGO": "LTF40.6",
+        "PRODUCTO": "TRAVERTINO FIORITO 40.6X40.6X01",
+        "PROV1": 21,
+        "PRECIO1": 200
+    },
+    {
+        "CODIGO": "LTRO30.5",
+        "PRODUCTO": "TRAVERTINO ROJO 30.5X30.5X01",
+        "PROV1": 21,
+        "PRECIO1": 160
+    },
+    {
+        "CODIGO": "LTRO40.6",
+        "PRODUCTO": "TRAVERTINO ROJO 40.6X40.6X01",
+        "PROV1": 21,
+        "PRECIO1": 200
+    },
+    {
+        "CODIGO": "LTR40.6",
+        "PRODUCTO": "TRAVERTINO ROMA 40.6X40.6X01",
+        "PROV1": 21,
+        "PRECIO1": 200
+    }
+]

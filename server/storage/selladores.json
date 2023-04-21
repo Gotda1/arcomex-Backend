@@ -1,0 +1,86 @@
+[
+    {
+        "CÓDIGO": "SNA1",
+        "NOMBRE": "SELLADOR DOMO NARANJA 1 LT ",
+        "PRECIO X PZ": 215.52,
+        "IVA": 34.483200000000004,
+        "TOTAL": 250.00320000000002
+    },
+    {
+        "CÓDIGO": "SNA2",
+        "NOMBRE": "SELLADOR DOMO NARANJA 4 LT ",
+        "PRECIO X PZ": 663.79,
+        "IVA": 106.2064,
+        "TOTAL": 769.9964
+    },
+    {
+        "CÓDIGO": "SNA3",
+        "NOMBRE": "SELLADOR DOMO NARANJA 19 LT ",
+        "PRECIO X PZ": 2758.62,
+        "IVA": 441.37919999999997,
+        "TOTAL": 3199.9991999999997
+    },
+    {
+        "CÓDIGO": "SV1",
+        "NOMBRE": "SELLADOR DOMO VERDE 1 LT ",
+        "PRECIO X PZ": 215.52,
+        "IVA": 34.483200000000004,
+        "TOTAL": 250.00320000000002
+    },
+    {
+        "CÓDIGO": "SV2",
+        "NOMBRE": "SELLADOR DOMO VERDE 4 LT ",
+        "PRECIO X PZ": 663.79,
+        "IVA": 106.2064,
+        "TOTAL": 769.9964
+    },
+    {
+        "CÓDIGO": "SV3",
+        "NOMBRE": "SELLADOR DOMO VERDE 19 LT ",
+        "PRECIO X PZ": 2758.62,
+        "IVA": 441.37919999999997,
+        "TOTAL": 3199.9991999999997
+    },
+    {
+        "CÓDIGO": "SNG1",
+        "NOMBRE": "SELLADOR DOMO NEGRO 1 LT ",
+        "PRECIO X PZ": 215.52,
+        "IVA": 34.483200000000004,
+        "TOTAL": 250.00320000000002
+    },
+    {
+        "CÓDIGO": "SNG2",
+        "NOMBRE": "SELLADOR DOMO NEGRO 4 LT ",
+        "PRECIO X PZ": 663.79,
+        "IVA": 106.2064,
+        "TOTAL": 769.9964
+    },
+    {
+        "CÓDIGO": "SNG3",
+        "NOMBRE": "SELLADOR DOMO NEGRO 19 LT ",
+        "PRECIO X PZ": 2758.62,
+        "IVA": 441.37919999999997,
+        "TOTAL": 3199.9991999999997
+    },
+    {
+        "CÓDIGO": "SM1",
+        "NOMBRE": "SELLADOR DOMO MORADO 1 LT ",
+        "PRECIO X PZ": 241.38,
+        "IVA": 38.6208,
+        "TOTAL": 280.0008
+    },
+    {
+        "CÓDIGO": "SM2",
+        "NOMBRE": "SELLADOR DOMO MORADO 4 LT ",
+        "PRECIO X PZ": 775.86,
+        "IVA": 124.1376,
+        "TOTAL": 899.9976
+    },
+    {
+        "CÓDIGO": "SM3",
+        "NOMBRE": "SELLADOR DOMO MORADO 19 LT ",
+        "PRECIO X PZ": 3318.965,
+        "IVA": 531.0344,
+        "TOTAL": 3849.9994
+    }
+]

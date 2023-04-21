@@ -1,0 +1,767 @@
+[
+    {
+        "clave": "APG20",
+        "producto": "ADHESIVO NIASA PEGATOP GRIS 20KG",
+        "existencias": "112.000"
+    },
+    {
+        "clave": "APMG20",
+        "producto": "ADHESIVO NIASA PEGAMARMOL GRIS 20KG",
+        "existencias": "18.000"
+    },
+    {
+        "clave": "APMB20",
+        "producto": "ADHESIVO NIASA PEGAMARMOL BCO 20KG",
+        "existencias": "68.000"
+    },
+    {
+        "clave": "APVG20",
+        "producto": "ADHESIVO NIASA PEGAVITRO GRIS 20KG",
+        "existencias": "93.000"
+    },
+    {
+        "clave": "APVB20",
+        "producto": "ADHESIVO NIASA PEGAVITRO BCO 20KG",
+        "existencias": "34.000"
+    },
+    {
+        "clave": "APG10",
+        "producto": "ADHESIVO NIASA POLIMOR GRIS 10KG",
+        "existencias": "16.000"
+    },
+    {
+        "clave": "APB10",
+        "producto": "ADHESIVO NIASA POLIMOR BCO 10KG",
+        "existencias": "26.000"
+    },
+    {
+        "clave": "FBN7.5",
+        "producto": "FACH BARRO FLAM NEGRA 7.5X25X01",
+        "existencias": "2.000"
+    },
+    {
+        "clave": "FBR7.5",
+        "producto": "FACH BARRO FLAM.ROJA 7.5X25X01",
+        "existencias": "17.000"
+    },
+    {
+        "clave": "FBNA7.5",
+        "producto": "FACH BARRO NATURAL 7.5X25X01",
+        "existencias": "8.000"
+    },
+    {
+        "clave": "FCA5X15",
+        "producto": "FACH CANTERMURO ARCOIRIS 5X15",
+        "existencias": "30.0000"
+    },
+    {
+        "clave": "FCGR5X15",
+        "producto": "FACH CANTERMURO GAL ROJO 5X15",
+        "existencias": "17.000"
+    },
+    {
+        "clave": "FCM5X15",
+        "producto": "FACH CANTERMURO NEGRO 5X15",
+        "existencias": "2.000"
+    },
+    {
+        "clave": "FD1",
+        "producto": "FACH DAMASCO OXFORD",
+        "existencias": "6.000"
+    },
+    {
+        "clave": "FDM",
+        "producto": "FACH DAMASCO MOKA",
+        "existencias": "29.000"
+    },
+    {
+        "clave": "FDO",
+        "producto": "FACH DAMASCO OBSIDIANA",
+        "existencias": "5.000"
+    },
+    {
+        "clave": "FG35X15",
+        "producto": "FACH DP GRAFFITO 35X18",
+        "existencias": "0.000"
+    },
+    {
+        "clave": "FMB5X15",
+        "producto": "FACH MARMURO BCO BEGO 5X15",
+        "existencias": "6.0000"
+    },
+    {
+        "clave": "FMD5X15",
+        "producto": "FACH MARMURO DORADO 5X15",
+        "existencias": "29.000"
+    },
+    {
+        "clave": "FMJ5X15",
+        "producto": "FACH MARMURO JASPE 5X15",
+        "existencias": "110.000"
+    },
+    {
+        "clave": "FMTB5X15",
+        "producto": "FACH MARMURO TRAV. BEIGE 5X15",
+        "existencias": "50.000"
+    },
+    {
+        "clave": "FMTR5X15",
+        "producto": "FACH MARMURO TRAV. ROJO 5X15",
+        "existencias": "82.000"
+    },
+    {
+        "clave": "FMTO5X15",
+        "producto": "FACH MARMURO TRAV. ORO 5X15",
+        "existencias": "94.000"
+    },
+    {
+        "clave": "FPG10",
+        "producto": "FACH PIEDRIN BCA GALARZA 10XLL",
+        "existencias": "83.000"
+    },
+    {
+        "clave": "FPO10",
+        "producto": "FACH PIEDRIN ORO VIEJO 10XLL",
+        "existencias": "1.000"
+    },
+    {
+        "clave": "FPST10",
+        "producto": "FACH PIEDRIN STO TOMAS 10XLL",
+        "existencias": "18.000"
+    },
+    {
+        "clave": "FPT10",
+        "producto": "FACH PIEDRIN TLAYUA 10XLL",
+        "existencias": "77.000"
+    },
+    {
+        "clave": "FPI",
+        "producto": "FACH  PRAGA INFINITY ",
+        "existencias": "27.0000"
+    },
+    {
+        "clave": "FPP",
+        "producto": "FACH PRAGA PERLA",
+        "existencias": "25.000"
+    },
+    {
+        "clave": "FPPO",
+        "producto": "FACH PRAGA POLANCO",
+        "existencias": "25.000"
+    },
+    {
+        "clave": "FPS",
+        "producto": "FACH PRAGA SILVER",
+        "existencias": "6.0000"
+    },
+    {
+        "clave": "FRG5XLL",
+        "producto": "FACH RAJUELA BCA GALARZA 5XLL",
+        "existencias": "148.000"
+    },
+    {
+        "clave": "FRA10XLL",
+        "producto": "FACH RAJUELA VERDE AQUA 5XLL",
+        "existencias": "43.000"
+    },
+    {
+        "clave": "FRAVA5XLL",
+        "producto": "FACH RAJUELA SAN ANDRES 10 X 5",
+        "existencias": "0.000"
+    },
+    {
+        "clave": "FRD5XLL",
+        "producto": "FACH RAJUELA DIAMANTINA 5XLL",
+        "existencias": "79.000"
+    },
+    {
+        "clave": "FRNP5X15",
+        "producto": "FACH RAJUELA NEGRA PIZARRA 5X15",
+        "existencias": "0.000"
+    },
+    {
+        "clave": "FRNP5XLL",
+        "producto": "FACH RAJUELA NEGRA PRETO 5XLL",
+        "existencias": "11.000"
+    },
+    {
+        "clave": "FOE3XLL",
+        "producto": "FACH RAJUELA OREJA ELEFANTE 3XLL",
+        "existencias": "13.000"
+    },
+    {
+        "clave": "FOE5XLL",
+        "producto": "FACH RAJUELA OREJA ELEFANTE 5XLL",
+        "existencias": "93.000"
+    },
+    {
+        "clave": "FOE10XLL",
+        "producto": "FACH RAJUELA OREJA ELEFANTE 10XLL",
+        "existencias": "9.000"
+    },
+    {
+        "clave": "FSA3XLL",
+        "producto": "FACH RAJUELA SAN ANDRES 3XLL",
+        "existencias": "12.0000"
+    },
+    {
+        "clave": "FSA5XLL",
+        "producto": "FACH RAJUELA SAN ANDRES 5XLL",
+        "existencias": "11.0000"
+    },
+    {
+        "clave": "FSI5XLL",
+        "producto": "FACH SANTORINI INFINITY",
+        "existencias": "25.000"
+    },
+    {
+        "clave": "FSA",
+        "producto": "FACH SANTORINI AGATA",
+        "existencias": "25.000"
+    },
+    {
+        "clave": "LG30X30",
+        "producto": "LAMINADO GRIS 30X30X02",
+        "existencias": "87.8978"
+    },
+    {
+        "clave": "LG40X40",
+        "producto": "LAMINADO GRIS 40X40X02",
+        "existencias": "253.000"
+    },
+    {
+        "clave": "LG40X60",
+        "producto": "LAMINADO GRIS 40X60X02",
+        "existencias": "167.720"
+    },
+    {
+        "clave": "LM30X30",
+        "producto": "LAMINADO MOSTAZA 30X30X02",
+        "existencias": "143.920"
+    },
+    {
+        "clave": "LM40X40",
+        "producto": "LAMINADO MOSTAZA 40X40X02",
+        "existencias": "33.680"
+    },
+    {
+        "clave": "LM40X60",
+        "producto": "LAMINADO MOSTAZA 40X60X02",
+        "existencias": "99.840"
+    },
+    {
+        "clave": "LN30X30",
+        "producto": "LAMINADO NARANJA 30X30X02",
+        "existencias": "95.000"
+    },
+    {
+        "clave": "LN40X40",
+        "producto": "LAMINADO NARANJA 40X40X02",
+        "existencias": "112.060"
+    },
+    {
+        "clave": "LN40X60",
+        "producto": "LAMINADO NARANJA 40X60X02",
+        "existencias": "146.880"
+    },
+    {
+        "clave": "LBE30X30",
+        "producto": "LAMINADO BCA ESPERANZA 30X30X02",
+        "existencias": "143.830"
+    },
+    {
+        "clave": "LNA30X30",
+        "producto": "LAMINADO NEGRA AMERICA 30X30X02",
+        "existencias": "354.000"
+    },
+    {
+        "clave": "LNA40X40",
+        "producto": "LAMINADO NEGRA AMERICA 40X40X02",
+        "existencias": "169.240"
+    },
+    {
+        "clave": "LNA40X60",
+        "producto": "LAMINADO NEGRA AMERICA 40X60X02",
+        "existencias": "320.080"
+    },
+    {
+        "clave": "LBE40X40",
+        "producto": "LAMINADO BCA ESPERANZA 40X40X02",
+        "existencias": "136.440"
+    },
+    {
+        "clave": "LBE40X60",
+        "producto": "LAMINADO BCA ESPERANZA 40X60X02",
+        "existencias": "280.960"
+    },
+    {
+        "clave": "LP30X30",
+        "producto": "LAMINADO PIÑON 30X30X02",
+        "existencias": "101.570"
+    },
+    {
+        "clave": "LP40X40",
+        "producto": "LAMINADO PIÑON 40X40X02",
+        "existencias": "89.0800"
+    },
+    {
+        "clave": "LP40X60",
+        "producto": "LAMINADO PIÑON 40X60X02",
+        "existencias": "145.640"
+    },
+    {
+        "clave": "LPC30X30",
+        "producto": "LAMINADO PIÑON CAFE 30X30X02",
+        "existencias": "5.000"
+    },
+    {
+        "clave": "LPC40X60",
+        "producto": "LAMINADO PIÑON CAFE 40X60X02",
+        "existencias": "0.000"
+    },
+    {
+        "clave": "LR30X30",
+        "producto": "LAMINADO ROSA 30X30X02",
+        "existencias": "27.930"
+    },
+    {
+        "clave": "LR40X40",
+        "producto": "LAMINADO ROSA 40X40X02",
+        "existencias": "110.720"
+    },
+    {
+        "clave": "LR40X60",
+        "producto": "LAMINADO ROSA 40X60X02",
+        "existencias": "81.840"
+    },
+    {
+        "clave": "LSA40X40",
+        "producto": "LAMINADO SAN ANDRES 40X40X02",
+        "existencias": "0.000"
+    },
+    {
+        "clave": "LGCH40X60",
+        "producto": "LAMINADO GALINDO CHOCOLATE 40X60X02",
+        "existencias": "204.880"
+    },
+    {
+        "clave": "LBM30X30",
+        "producto": "LAMINADO BCA MEXICANA 30X30X02",
+        "existencias": "15.170"
+    },
+    {
+        "clave": "LBM40X40",
+        "producto": "LAMINADO BCA MEXICANA 40X40X02",
+        "existencias": "207.920"
+    },
+    {
+        "clave": "LBM40X60",
+        "producto": "LAMINADO BCA MEXICANA 40X60X02",
+        "existencias": "162.640"
+    },
+    {
+        "clave": "LBP30X30",
+        "producto": "LAMINADO BCA PACHUCA 30X30X02",
+        "existencias": "208.470"
+    },
+    {
+        "clave": "LBP40X40",
+        "producto": "LAMINADO BCA PACHUCA 40X40X02",
+        "existencias": "16.480"
+    },
+    {
+        "clave": "LBP40X60",
+        "producto": "LAMINADO BCA PACHUCA 40X60X02",
+        "existencias": "71.480"
+    },
+    {
+        "clave": "LBT30X30",
+        "producto": "LAMINADO BCA TINAJERO 30X30X02",
+        "existencias": "18.690"
+    },
+    {
+        "clave": "LBT40X40",
+        "producto": "LAMINADO BCA TINAJERO 40X40X02",
+        "existencias": "104.680"
+    },
+    {
+        "clave": "LBT40X60",
+        "producto": "LAMINADO BCA TINAJERO 40X60X02",
+        "existencias": "54.000"
+    },
+    {
+        "clave": "LB30X30",
+        "producto": "LAMINADO BRONCE 30X30X02",
+        "existencias": "88.000"
+    },
+    {
+        "clave": "LB40X40",
+        "producto": "LAMINADO BRONCE 40X40X02",
+        "existencias": "127.000"
+    },
+    {
+        "clave": "LB40X60",
+        "producto": "LAMINADO BRONCE 40X60X02",
+        "existencias": "131.880"
+    },
+    {
+        "clave": "LCII30X30",
+        "producto": "LAMINADO CAFE II 30X30X02",
+        "existencias": "24.760"
+    },
+    {
+        "clave": "LCII40X40",
+        "producto": "LAMINADO CAFE II 40X40X02",
+        "existencias": "0.000"
+    },
+    {
+        "clave": "LCII40X60",
+        "producto": "LAMINADO CAFE II 40X60X02",
+        "existencias": "71.920"
+    },
+    {
+        "clave": "LGC30X30",
+        "producto": "LAMINADO GALINDO CAFE 30X30X02",
+        "existencias": "154.660"
+    },
+    {
+        "clave": "LGC40X40",
+        "producto": "LAMINADO GALINDO CAFE 40X40X02",
+        "existencias": "16.4800"
+    },
+    {
+        "clave": "LGC40X60",
+        "producto": "LAMINADO GALINDO CAFE 40X60X02",
+        "existencias": "398.040"
+    },
+    {
+        "clave": "LGR30X30",
+        "producto": "LAMINADO GALINDO ROJO 30X30X02",
+        "existencias": "63.360"
+    },
+    {
+        "clave": "LGR40X40",
+        "producto": "LAMINADO GALINDO ROJO 40X40X02",
+        "existencias": "169.000"
+    },
+    {
+        "clave": "LGR40X60",
+        "producto": "LAMINADO GALINDO ROJO 40X60X02",
+        "existencias": "79.760"
+    },
+    {
+        "clave": "LBA30X30",
+        "producto": "LOSETA DE BARRO 30X30X01",
+        "existencias": "9.000"
+    },
+    {
+        "clave": "LBA15X30",
+        "producto": "LOSETA DE BARRO 15X30X01",
+        "existencias": "72.000"
+    },
+    {
+        "clave": "LC30.5X30.5",
+        "producto": "LAMINADO CONCHUELA 30.5X30.5X1.3",
+        "existencias": "205.648"
+    },
+    {
+        "clave": "LC40.6X40.6",
+        "producto": "LAMINADO CONCHUELA 40.6X40.6X1.3",
+        "existencias": "115.740"
+    },
+    {
+        "clave": "LIOE",
+        "producto": "LAJA IRREGULAR OREJA ELEFANTE",
+        "existencias": "24.000"
+    },
+    {
+        "clave": "LIOV",
+        "producto": "LAJA IRREGULAR ORO VIEJO",
+        "existencias": "26.920"
+    },
+    {
+        "clave": "LRGC30X30",
+        "producto": "LAMINADO RECINTO GRIS PC 30X30X02",
+        "existencias": "142.290"
+    },
+    {
+        "clave": "LRGC40X40",
+        "producto": "LAMINADO RECINTO GRIS PC 40X40X02",
+        "existencias": "357.240"
+    },
+    {
+        "clave": "LRGC40X60",
+        "producto": "LAMINADO RECINTO GRIS PC 40X60X02",
+        "existencias": "191.680"
+    },
+    {
+        "clave": "LRNA30X30",
+        "producto": "LAMINADO RECINTO NEGRO PA 30X30X02",
+        "existencias": "56.380"
+    },
+    {
+        "clave": "LRNA40X40",
+        "producto": "LAMINADO RECINTO NEGRO PA 40X40X02",
+        "existencias": "45.400"
+    },
+    {
+        "clave": "LRNA40X60",
+        "producto": "LAMINADO RECINTO NEGRO PA 40X60X02",
+        "existencias": "366.100"
+    },
+    {
+        "clave": "LRNC30X30",
+        "producto": "LAMINADO RECINTO NEGRO PC 30X30X02",
+        "existencias": "158.800"
+    },
+    {
+        "clave": "LRNC40X40",
+        "producto": "LAMINADO RECINTO NEGRO PC 40X40X02",
+        "existencias": "24.640"
+    },
+    {
+        "clave": "LRNC40X60",
+        "producto": "LAMINADO RECINTO NEGRO PC 40X60X02",
+        "existencias": "193.200"
+    },
+    {
+        "clave": "LT30.5X30.5",
+        "producto": "LAMINADO TICUL 30.5X30.5X1.3",
+        "existencias": "367.875"
+    },
+    {
+        "clave": "LT40.6X40.6",
+        "producto": "LAMINADO TICUL 40.6X40.6X1.3",
+        "existencias": "212.6782"
+    },
+    {
+        "clave": "MA40",
+        "producto": "MARMOL ARENA 40XLLX01",
+        "existencias": "260.276"
+    },
+    {
+        "clave": "MA50",
+        "producto": "MARMOL ARENA 50 X 90",
+        "existencias": "44.6200"
+    },
+    {
+        "clave": "MD30",
+        "producto": "MALLA CUADRO 5 DOMINO 30 X 30",
+        "existencias": "9.000"
+    },
+    {
+        "clave": "MCT30.5X30.5",
+        "producto": "MARMOL CAFE TABACO 30.5X30.5X01",
+        "existencias": "42.510"
+    },
+    {
+        "clave": "MCT40.6X40.6",
+        "producto": "MARMOL CAFÉ TABACO 40.6X40.6X01",
+        "existencias": "37.243"
+    },
+    {
+        "clave": "ML40.6",
+        "producto": "MARMOL LISBOA 40.60 X LL",
+        "existencias": "194.9330"
+    },
+    {
+        "clave": "ML50.75",
+        "producto": "MARMOL LISBOA 50.75 X 91.35",
+        "existencias": "68.940"
+    },
+    {
+        "clave": "MST30.5",
+        "producto": "MARMOL STO TOMAS 30.5X30.5X01",
+        "existencias": "14.960"
+    },
+    {
+        "clave": "MST40.6",
+        "producto": "MARMOL STO TOMAS 40.6X40.6X01",
+        "existencias": "7.060"
+    },
+    {
+        "clave": "MST61",
+        "producto": "MARMOL STO TOMAS 30.5X61X01",
+        "existencias": "48.370"
+    },
+    {
+        "clave": "MTA30",
+        "producto": "MALLA TROCHADO ARCOIRIS 30 X 30",
+        "existencias": "11.000"
+    },
+    {
+        "clave": "MTST30",
+        "producto": "MALLA TRONCHADO STO TOMAS 30X30",
+        "existencias": "11.000"
+    },
+    {
+        "clave": "MTR30",
+        "producto": "MALLA TRONCHADO TRAV. ROJO 30X30",
+        "existencias": "6.000"
+    },
+    {
+        "clave": "MTBB30",
+        "producto": "MALLA TRONCHADO BCO BEGO 30X30",
+        "existencias": "173.000"
+    },
+    {
+        "clave": "MTBE30",
+        "producto": "MALLA TRONCHADO BCO BELAGIO 30X30",
+        "existencias": "4.000"
+    },
+    {
+        "clave": "MTCT30",
+        "producto": "MALLA TRONCHADO CAFE TABACO 30X30",
+        "existencias": "123.000"
+    },
+    {
+        "clave": "MTP30",
+        "producto": "MALLA TRONCHADO COLA PESCADO 30X30",
+        "existencias": "30.000"
+    },
+    {
+        "clave": "MTD30",
+        "producto": "MALLA TRONCHADO DORADO 30X30",
+        "existencias": "74.000"
+    },
+    {
+        "clave": "MTN30",
+        "producto": "MALLA TRONCHADO NEGRO 30X30",
+        "existencias": "32.000"
+    },
+    {
+        "clave": "MTO30",
+        "producto": "MALLA TRONCHADO ONIX 30X30",
+        "existencias": "2.000"
+    },
+    {
+        "clave": "MTRE30",
+        "producto": "MALLA TROCHADO RECINTO 30 X 30",
+        "existencias": "90.000"
+    },
+    {
+        "clave": "PMB",
+        "producto": "PIEDRA DE MARMOL BLANCA 1 1/2 20KG ",
+        "existencias": "3.0000"
+    },
+    {
+        "clave": "PMA",
+        "producto": "PIEDRA DE MARMOL AMARILLA 1 1/2 20KG ",
+        "existencias": "1.0000"
+    },
+    {
+        "clave": "PMR",
+        "producto": "PIEDRA DE MARMOL ROSA 1 1/2 20KG ",
+        "existencias": "2.000"
+    },
+    {
+        "clave": "RBG30X30",
+        "producto": "RUSTICO BCA GALARZA 30X30",
+        "existencias": "77.840"
+    },
+    {
+        "clave": "RBG30X60",
+        "producto": "RUSTICO BCA GALARZA 30X60",
+        "existencias": "58.580"
+    },
+    {
+        "clave": "RBG40X40",
+        "producto": "RUSTICO BCA GALARZA 40X40",
+        "existencias": "162.050"
+    },
+    {
+        "clave": "RBG40X60",
+        "producto": "RUSTICO BCA GALARZA 40X60",
+        "existencias": "65.440"
+    },
+    {
+        "clave": "RSA10",
+        "producto": "RUSTICO SAN ANDRES 10X1",
+        "existencias": "22.5000"
+    },
+    {
+        "clave": "SM1",
+        "producto": "SELLADOR DOMO MORADO 1 LT",
+        "existencias": "13.000"
+    },
+    {
+        "clave": "SM4",
+        "producto": "SELLADOR DOMO MORADO 4 LT",
+        "existencias": "5.000"
+    },
+    {
+        "clave": "SM19",
+        "producto": "SELLADOR DOMO MORADO 19 LT",
+        "existencias": "7.000"
+    },
+    {
+        "clave": "SN1",
+        "producto": "SELLADOR DOMO NARANJA 1 LT",
+        "existencias": "8.000"
+    },
+    {
+        "clave": "SN4",
+        "producto": "SELLADOR DOMO NARANJA 4 LT ",
+        "existencias": "7.000"
+    },
+    {
+        "clave": "SN19",
+        "producto": "SELLADOR DOMO NARANJA  19 LT",
+        "existencias": "9.000"
+    },
+    {
+        "clave": "SNE1",
+        "producto": "SELLADOR DOMO NEGRO 1 LT",
+        "existencias": "29.000"
+    },
+    {
+        "clave": "SNE4",
+        "producto": "SELLADOR DOMO NEGRO 4 LT",
+        "existencias": "12.000"
+    },
+    {
+        "clave": "SNE19",
+        "producto": "SELLADOR DOMO NEGRO 19 LT",
+        "existencias": "8.000"
+    },
+    {
+        "clave": "SV1",
+        "producto": "SELLADOR DOMO VERDE 1 LT",
+        "existencias": "12.000"
+    },
+    {
+        "clave": "SV4",
+        "producto": "SELLADOR DOMO VERDE 4 LT ",
+        "existencias": "14.000"
+    },
+    {
+        "clave": "SV19",
+        "producto": "SELLADOR DOMO VERDE 19 LT",
+        "existencias": "5.000"
+    },
+    {
+        "clave": "LTF30.3",
+        "producto": "TRAVERTINO FIORITO 30.3X30.5X01",
+        "existencias": "149.032"
+    },
+    {
+        "clave": "LTF40.6",
+        "producto": "TRAVERTINO FIORITO 40.6X40.6X01",
+        "existencias": "168.980"
+    },
+    {
+        "clave": "LTRO30.5",
+        "producto": "TRAVERTINO ROJO 30.5X30.5X01",
+        "existencias": "46.970"
+    },
+    {
+        "clave": "LTRO40.6",
+        "producto": "TRAVERTINO ROJO 40.6X40.6X01",
+        "existencias": "14.8394"
+    },
+    {
+        "clave": "LTR40.6",
+        "producto": "TRAVERTINO ROMA 40.6X40.6X01",
+        "existencias": "22.720"
+    }
+]

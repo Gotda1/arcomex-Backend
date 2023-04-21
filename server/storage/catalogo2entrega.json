@@ -1,0 +1,623 @@
+[
+    {
+        "CODIGO": "APG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGATOP GRIS 20KG"
+    },
+    {
+        "CODIGO": "APMG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAMARMOL GRIS 20KG"
+    },
+    {
+        "CODIGO": "APMG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAMARMOL BCO 20KG"
+    },
+    {
+        "CODIGO": "APVG20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAVITRO GRIS 20KG"
+    },
+    {
+        "CODIGO": "APVB20",
+        "PRODUCTO": "ADHESIVO NIASA PEGAVITRO BCO 20KG"
+    },
+    {
+        "CODIGO": "APG10",
+        "PRODUCTO": "ADHESIVO NIASA POLIMOR GRIS 10KG"
+    },
+    {
+        "CODIGO": "APB10",
+        "PRODUCTO": "ADHESIVO NIASA POLIMOR BCO 10KG"
+    },
+    {
+        "CODIGO": "FBN7.5",
+        "PRODUCTO": "FACH BARRO FLAM NEGRA 7.5X25X01"
+    },
+    {
+        "CODIGO": "FBR7.5",
+        "PRODUCTO": "FACH BARRO FLAM.ROJA 7.5X25X01"
+    },
+    {
+        "CODIGO": "FBNA7.5",
+        "PRODUCTO": "FACH BARRO NATURAL 7.5X25X01"
+    },
+    {
+        "CODIGO": "FCGR5X15",
+        "PRODUCTO": "FACH CANTERMURO GAL ROJO 5X15"
+    },
+    {
+        "CODIGO": "FCM5X15",
+        "PRODUCTO": "FACH CANTERMURO NEGRO 5X15"
+    },
+    {
+        "PRODUCTO": "FACH DAMASCO MOKA "
+    },
+    {
+        "PRODUCTO": "FACH DAMASCO OBSIDIANA "
+    },
+    {
+        "CODIGO": "FG35X15",
+        "PRODUCTO": "FACH DP GRAFFITO 35X18"
+    },
+    {
+        "CODIGO": "FMB5X15",
+        "PRODUCTO": "FACH MARMURO BCO BEGO 5X15"
+    },
+    {
+        "CODIGO": "FMD5X15",
+        "PRODUCTO": "FACH MARMURO DORADO 5X15"
+    },
+    {
+        "CODIGO": "FMJ5X15",
+        "PRODUCTO": "FACH MARMURO JASPE 5X15"
+    },
+    {
+        "CODIGO": "FMTB5X15",
+        "PRODUCTO": "FACH MARMURO TRAV. BEIGE 5X15"
+    },
+    {
+        "CODIGO": "FMTR5X15",
+        "PRODUCTO": "FACH MARMURO TRAV. ROJO 5X15"
+    },
+    {
+        "CODIGO": "FMTO5X15",
+        "PRODUCTO": "FACH MARMURO TRAV. ORO 5X15"
+    },
+    {
+        "CODIGO": "FPG10",
+        "PRODUCTO": "FACH PIEDRIN BCA GALARZA 10XLL"
+    },
+    {
+        "CODIGO": "FPO10",
+        "PRODUCTO": "FACH PIEDRIN ORO VIEJO 10XLL"
+    },
+    {
+        "CODIGO": "FPST10",
+        "PRODUCTO": "FACH PIEDRIN STO TOMAS 10XLL"
+    },
+    {
+        "CODIGO": "FPT10",
+        "PRODUCTO": "FACH PIEDRIN TLAYUA 10XLL"
+    },
+    {
+        "PRODUCTO": "FACH  PRAGA INFINITY 5 X  LL"
+    },
+    {
+        "PRODUCTO": "FACH PRAGA PERLA 5 X LL"
+    },
+    {
+        "PRODUCTO": "FACH PRAGA SILVER 5 X LL"
+    },
+    {
+        "CODIGO": "FRG5XLL",
+        "PRODUCTO": "FACH RAJUELA BCA GALARZA 5XLL"
+    },
+    {
+        "CODIGO": "FRA10XLL",
+        "PRODUCTO": "FACH RAJUELA VERDE AQUA 5XLL"
+    },
+    {
+        "CODIGO": "FRAVA5XLL",
+        "PRODUCTO": "FACH RAJUELA SAN ANDRES 10 X 5"
+    },
+    {
+        "CODIGO": "FRD5XLL",
+        "PRODUCTO": "FACH RAJUELA DIAMANTINA 5XLL"
+    },
+    {
+        "CODIGO": "FRNP5X15",
+        "PRODUCTO": "FACH RAJUELA NEGRA PIZARRA 5X15"
+    },
+    {
+        "CODIGO": "FRNP5XLL",
+        "PRODUCTO": "FACH RAJUELA NEGRA PRETO 5XLL"
+    },
+    {
+        "CODIGO": "FOE3XLL",
+        "PRODUCTO": "FACH RAJUELA OREJA ELEFANTE 3XLL"
+    },
+    {
+        "CODIGO": "FOE5XLL",
+        "PRODUCTO": "FACH RAJUELA OREJA ELEFANTE 5XLL"
+    },
+    {
+        "CODIGO": "FOE10XLL",
+        "PRODUCTO": "FACH RAJUELA OREJA ELEFANTE 10XLL"
+    },
+    {
+        "CODIGO": "FSA3XLL",
+        "PRODUCTO": "FACH RAJUELA SAN ANDRES 3XLL"
+    },
+    {
+        "CODIGO": "FSA5XLL",
+        "PRODUCTO": "FACH RAJUELA SAN ANDRES 5XLL"
+    },
+    {
+        "CODIGO": "LG30X30",
+        "PRODUCTO": "LAMINADO GRIS 30X30X02"
+    },
+    {
+        "CODIGO": "LG40X40",
+        "PRODUCTO": "LAMINADO GRIS 40X40X02"
+    },
+    {
+        "CODIGO": "LG40X60",
+        "PRODUCTO": "LAMINADO GRIS 40X60X02"
+    },
+    {
+        "CODIGO": "LM30X30",
+        "PRODUCTO": "LAMINADO MOSTAZA 30X30X02"
+    },
+    {
+        "CODIGO": "LM40X40",
+        "PRODUCTO": "LAMINADO MOSTAZA 40X40X02"
+    },
+    {
+        "CODIGO": "LM40X60",
+        "PRODUCTO": "LAMINADO MOSTAZA 40X60X02"
+    },
+    {
+        "CODIGO": "LN30X30",
+        "PRODUCTO": "LAMINADO NARANJA 30X30X02"
+    },
+    {
+        "CODIGO": "LN40X40",
+        "PRODUCTO": "LAMINADO NARANJA 40X40X02"
+    },
+    {
+        "CODIGO": "LN40X60",
+        "PRODUCTO": "LAMINADO NARANJA 40X60X02"
+    },
+    {
+        "CODIGO": "LBE30X30",
+        "PRODUCTO": "LAMINADO BCA ESPERANZA 30X30X02"
+    },
+    {
+        "CODIGO": "LNA30X30",
+        "PRODUCTO": "LAMINADO NEGRA AMERICA 30X30X02"
+    },
+    {
+        "CODIGO": "LNA40X40",
+        "PRODUCTO": "LAMINADO NEGRA AMERICA 40X40X02"
+    },
+    {
+        "CODIGO": "LNA40X60",
+        "PRODUCTO": "LAMINADO NEGRA AMERICA 40X60X02"
+    },
+    {
+        "CODIGO": "LBE40X40",
+        "PRODUCTO": "LAMINADO BCA ESPERANZA 40X40X02"
+    },
+    {
+        "CODIGO": "LBE40X60",
+        "PRODUCTO": "LAMINADO BCA ESPERANZA 40X60X02"
+    },
+    {
+        "CODIGO": "LP30X30",
+        "PRODUCTO": "LAMINADO PIÑON 30X30X02"
+    },
+    {
+        "CODIGO": "LP40X40",
+        "PRODUCTO": "LAMINADO PIÑON 40X40X02"
+    },
+    {
+        "CODIGO": "LP40X60",
+        "PRODUCTO": "LAMINADO PIÑON 40X60X02"
+    },
+    {
+        "CODIGO": "LPC30X30",
+        "PRODUCTO": "LAMINADO PIÑON CAFE 30X30X02"
+    },
+    {
+        "CODIGO": "LPC40X40",
+        "PRODUCTO": "LAMINADO PIÑON CAFE 40X40X02\r\n"
+    },
+    {
+        "CODIGO": "LPC40X60",
+        "PRODUCTO": "LAMINADO PIÑON CAFE 40X60X02"
+    },
+    {
+        "CODIGO": "LR30X30",
+        "PRODUCTO": "LAMINADO ROSA 30X30X02"
+    },
+    {
+        "CODIGO": "LR40X40",
+        "PRODUCTO": "LAMINADO ROSA 40X40X02"
+    },
+    {
+        "CODIGO": "LR40X60",
+        "PRODUCTO": "LAMINADO ROSA 40X60X02"
+    },
+    {
+        "PRODUCTO": "LAMINADO SAN ANDRES 40X40X02"
+    },
+    {
+        "PRODUCTO": "LAMINADO GALINDO CHOCOLATE 40X60X02"
+    },
+    {
+        "CODIGO": "LBM30X30",
+        "PRODUCTO": "LAMINADO BCA MEXICANA 30X30X02"
+    },
+    {
+        "CODIGO": "LBM40X40",
+        "PRODUCTO": "LAMINADO BCA MEXICANA 40X40X02"
+    },
+    {
+        "CODIGO": "LBM40X60",
+        "PRODUCTO": "LAMINADO BCA MEXICANA 40X60X02"
+    },
+    {
+        "CODIGO": "LBP30X30",
+        "PRODUCTO": "LAMINADO BCA PACHUCA 30X30X02"
+    },
+    {
+        "CODIGO": "LBP40X40",
+        "PRODUCTO": "LAMINADO BCA PACHUCA 40X40X02"
+    },
+    {
+        "CODIGO": "LBP40X60",
+        "PRODUCTO": "LAMINADO BCA PACHUCA 40X60X02"
+    },
+    {
+        "CODIGO": "LBT30X30",
+        "PRODUCTO": "LAMINADO BCA TINAJERO 30X30X02"
+    },
+    {
+        "CODIGO": "LBT40X40",
+        "PRODUCTO": "LAMINADO BCA TINAJERO 40X40X02"
+    },
+    {
+        "CODIGO": "LBT40X60",
+        "PRODUCTO": "LAMINADO BCA TINAJERO 40X60X02"
+    },
+    {
+        "CODIGO": "LB30X30",
+        "PRODUCTO": "LAMINADO BRONCE 30X30X02"
+    },
+    {
+        "CODIGO": "LB40X40",
+        "PRODUCTO": "LAMINADO BRONCE 40X40X02"
+    },
+    {
+        "CODIGO": "LB40X60",
+        "PRODUCTO": "LAMINADO BRONCE 40X60X02"
+    },
+    {
+        "CODIGO": "LCII30X30",
+        "PRODUCTO": "LAMINADO CAFE II 30X30X02"
+    },
+    {
+        "CODIGO": "LCII40X40",
+        "PRODUCTO": "LAMINADO CAFE II 40X40X02"
+    },
+    {
+        "CODIGO": "LCII40X60",
+        "PRODUCTO": "LAMINADO CAFE II 40X60X02"
+    },
+    {
+        "CODIGO": "LGC30X30",
+        "PRODUCTO": "LAMINADO GALINDO CAFE 30X30X02"
+    },
+    {
+        "CODIGO": "LGC40X40",
+        "PRODUCTO": "LAMINADO GALINDO CAFE 40X40X02"
+    },
+    {
+        "CODIGO": "LGC40X60",
+        "PRODUCTO": "LAMINADO GALINDO CAFE 40X60X02"
+    },
+    {
+        "CODIGO": "LGR30X30",
+        "PRODUCTO": "LAMINADO GALINDO ROJO 30X30X02"
+    },
+    {
+        "CODIGO": "LGR40X40",
+        "PRODUCTO": "LAMINADO GALINDO ROJO 40X40X02"
+    },
+    {
+        "CODIGO": "LGR40X60",
+        "PRODUCTO": "LAMINADO GALINDO ROJO 40X60X02"
+    },
+    {
+        "CODIGO": "LBA30X30",
+        "PRODUCTO": "LOSETA DE BARRO 30X30X01"
+    },
+    {
+        "CODIGO": "LBA15X30",
+        "PRODUCTO": "LOSETA DE BARRO 15X30X01"
+    },
+    {
+        "CODIGO": "LC30.5X30.5",
+        "PRODUCTO": "LAMINADO CONCHUELA 30.5X30.5X1.3"
+    },
+    {
+        "CODIGO": "LC40.6X40.6",
+        "PRODUCTO": "LAMINADO CONCHUELA 40.6X40.6X1.3"
+    },
+    {
+        "CODIGO": "LIG",
+        "PRODUCTO": "LAJA IRREGULAR BCA GALARZA"
+    },
+    {
+        "CODIGO": "LIP",
+        "PRODUCTO": "LAJA IRREGULAR PIÑON LISA"
+    },
+    {
+        "CODIGO": "LISP",
+        "PRODUCTO": "LAJA IRREGULAR SANGRE DE PICHON "
+    },
+    {
+        "CODIGO": "LIT",
+        "PRODUCTO": "LAJA IRREGULAR TLAYUA"
+    },
+    {
+        "CODIGO": "LIVM",
+        "PRODUCTO": "LAJA IRREGULAR VERDE MIXTECA"
+    },
+    {
+        "CODIGO": "LID",
+        "PRODUCTO": "LAJA IRREGULAR BCA TINAJERO LISA "
+    },
+    {
+        "CODIGO": "LIG",
+        "PRODUCTO": "LAJA IRREGULAR DIAMANTINA"
+    },
+    {
+        "CODIGO": "LINP",
+        "PRODUCTO": "LAJA IRREGULAR NEGRA PIZARRA"
+    },
+    {
+        "CODIGO": "LIOE",
+        "PRODUCTO": "LAJA IRREGULAR OREJA ELEFANTE"
+    },
+    {
+        "CODIGO": "LIOV",
+        "PRODUCTO": "LAJA IRREGULAR ORO VIEJO"
+    },
+    {
+        "CODIGO": "LRGC30X30",
+        "PRODUCTO": "LAMINADO RECINTO GRIS PC 30X30X02"
+    },
+    {
+        "CODIGO": "LRGC40X40",
+        "PRODUCTO": "LAMINADO RECINTO GRIS PC 40X40X02"
+    },
+    {
+        "CODIGO": "LRGC40X60",
+        "PRODUCTO": "LAMINADO RECINTO GRIS PC 40X60X02"
+    },
+    {
+        "CODIGO": "LRNA30X30",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PA 30X30X02"
+    },
+    {
+        "CODIGO": "LRNA40X40",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PA 40X40X02"
+    },
+    {
+        "CODIGO": "LRNA40X60",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PA 40X60X02"
+    },
+    {
+        "CODIGO": "LRNC30X30",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PC 30X30X02"
+    },
+    {
+        "CODIGO": "LRNC40X40",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PC 40X40X02"
+    },
+    {
+        "CODIGO": "LRNC40X60",
+        "PRODUCTO": "LAMINADO RECINTO NEGRO PC 40X60X02"
+    },
+    {
+        "CODIGO": "LT30.5X30.5",
+        "PRODUCTO": "LAMINADO TICUL 30.5X30.5X1.3"
+    },
+    {
+        "CODIGO": "LT40.6X40.6",
+        "PRODUCTO": "LAMINADO TICUL 40.6X40.6X1.3"
+    },
+    {
+        "CODIGO": "MA40",
+        "PRODUCTO": "MARMOL ARENA 40XLLX01"
+    },
+    {
+        "CODIGO": "MA50",
+        "PRODUCTO": "MARMOL ARENA 50 X 90"
+    },
+    {
+        "CODIGO": "MD30",
+        "PRODUCTO": "MALLA CUADRO 5 DOMINO 30 X 30"
+    },
+    {
+        "CODIGO": "MCT30.5X30.5",
+        "PRODUCTO": "MARMOL CAFE TABACO 30.5X30.5X01"
+    },
+    {
+        "CODIGO": "MCT40.6X40.6",
+        "PRODUCTO": "MARMOL CAFÉ TABACO 40.6X40.6X01"
+    },
+    {
+        "CODIGO": "ML40.6",
+        "PRODUCTO": "MARMOL LISBOA 40.60 X LL"
+    },
+    {
+        "CODIGO": "ML50.75",
+        "PRODUCTO": "MARMOL LISBOA 50.75 X 91.35"
+    },
+    {
+        "CODIGO": "MST30.5",
+        "PRODUCTO": "MARMOL STO TOMAS 30.5X30.5X01"
+    },
+    {
+        "CODIGO": "MST40.6",
+        "PRODUCTO": "MARMOL STO TOMAS 40.6X40.6X01"
+    },
+    {
+        "CODIGO": "MST61",
+        "PRODUCTO": "MARMOL STO TOMAS 30.5X61X01"
+    },
+    {
+        "CODIGO": "MTA30",
+        "PRODUCTO": "MALLA TROCHADO ARCOIRIS 30 X 30"
+    },
+    {
+        "CODIGO": "MTST30",
+        "PRODUCTO": "MALLA TRONCHADO STO TOMAS 30X30"
+    },
+    {
+        "CODIGO": "MTR30",
+        "PRODUCTO": "MALLA TRONCHADO TRAV. ROJO 30X30"
+    },
+    {
+        "CODIGO": "MTBB30",
+        "PRODUCTO": "MALLA TRONCHADO BCO BEGO 30X30"
+    },
+    {
+        "CODIGO": "MTBE30",
+        "PRODUCTO": "MALLA TRONCHADO BCO BELAGIO 30X30"
+    },
+    {
+        "CODIGO": "MTCT30",
+        "PRODUCTO": "MALLA TRONCHADO CAFE TABACO 30X30"
+    },
+    {
+        "CODIGO": "MTP30",
+        "PRODUCTO": "MALLA TRONCHADO COLA PESCADO 30X30"
+    },
+    {
+        "CODIGO": "MTD30",
+        "PRODUCTO": "MALLA TRONCHADO DORADO 30X30"
+    },
+    {
+        "CODIGO": "MTN30",
+        "PRODUCTO": "MALLA TRONCHADO NEGRO 30X30"
+    },
+    {
+        "CODIGO": "MTO30",
+        "PRODUCTO": "MALLA TRONCHADO ONIX 30X30"
+    },
+    {
+        "CODIGO": "MTRE30",
+        "PRODUCTO": "MALLA TROCHADO RECINTO 30 X 30"
+    },
+    {
+        "CODIGO": "PMB",
+        "PRODUCTO": "PIEDRA DE MARMOL BLANCA 1 1/2\"  20KG "
+    },
+    {
+        "CODIGO": "PMA",
+        "PRODUCTO": "PIEDRA DE MARMOL AMARILLA 1 1/2\"  20KG "
+    },
+    {
+        "CODIGO": "PMR",
+        "PRODUCTO": "PIEDRA DE MARMOL ROSA 1 1/2\"  20KG "
+    },
+    {
+        "CODIGO": "RBG30X30",
+        "PRODUCTO": "RUSTICO BCA GALARZA 30X30"
+    },
+    {
+        "CODIGO": "RBG30X60",
+        "PRODUCTO": "RUSTICO BCA GALARZA 30X60"
+    },
+    {
+        "CODIGO": "RBG40X40",
+        "PRODUCTO": "RUSTICO BCA GALARZA 40X40"
+    },
+    {
+        "CODIGO": "RBG40X60",
+        "PRODUCTO": "RUSTICO BCA GALARZA 40X60"
+    },
+    {
+        "CODIGO": "RSA10",
+        "PRODUCTO": "RUSTICO SAN ANDRES 10X10 "
+    },
+    {
+        "CODIGO": "SM1",
+        "PRODUCTO": "SELLADOR DOMO MORADO 1 LT"
+    },
+    {
+        "CODIGO": "SM4",
+        "PRODUCTO": "SELLADOR DOMO MORADO 4 LT"
+    },
+    {
+        "CODIGO": "SM19",
+        "PRODUCTO": "SELLADOR DOMO MORADO 19 LT"
+    },
+    {
+        "CODIGO": "SN1",
+        "PRODUCTO": "SELLADOR DOMO NARANJA 1 LT"
+    },
+    {
+        "CODIGO": "SN4",
+        "PRODUCTO": "SELLADOR DOMO NARANJA 4 LT "
+    },
+    {
+        "CODIGO": "SN19",
+        "PRODUCTO": "SELLADOR DOMO NARANJA  19 LT"
+    },
+    {
+        "CODIGO": "SNE1",
+        "PRODUCTO": "SELLADOR DOMO NEGRO 1 LT"
+    },
+    {
+        "CODIGO": "SNE4",
+        "PRODUCTO": "SELLADOR DOMO NEGRO 4 LT"
+    },
+    {
+        "CODIGO": "SNE19",
+        "PRODUCTO": "SELLADOR DOMO NEGRO 19 LT"
+    },
+    {
+        "CODIGO": "SV1",
+        "PRODUCTO": "SELLADOR DOMO VERDE 1 LT"
+    },
+    {
+        "CODIGO": "SV4",
+        "PRODUCTO": "SELLADOR DOMO VERDE 4 LT "
+    },
+    {
+        "CODIGO": "SV19",
+        "PRODUCTO": "SELLADOR DOMO VERDE 19 LT"
+    },
+    {
+        "CODIGO": "LTF30.3",
+        "PRODUCTO": "TRAVERTINO FIORITO 30.3X30.5X01"
+    },
+    {
+        "CODIGO": "LTF40.6",
+        "PRODUCTO": "TRAVERTINO FIORITO 40.6X40.6X01"
+    },
+    {
+        "CODIGO": "LTRO30.5",
+        "PRODUCTO": "TRAVERTINO ROJO 30.5X30.5X01"
+    },
+    {
+        "CODIGO": "LTRO40.6",
+        "PRODUCTO": "TRAVERTINO ROJO 40.6X40.6X01"
+    },
+    {
+        "CODIGO": "LTR40.6",
+        "PRODUCTO": "TRAVERTINO ROMA 40.6X40.6X01"
+    }
+]

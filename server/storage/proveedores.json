@@ -1,0 +1,412 @@
+[
+    {
+        "# PROVEEDOR": 1,
+        "PROVEEDOR": "ADESA",
+        "TELEFONO": "33 33493297"
+    },
+    {
+        "# PROVEEDOR": 2,
+        "PROVEEDOR": "ANTONIO GUZMAN"
+    },
+    {
+        "# PROVEEDOR": 3,
+        "PROVEEDOR": "ARANGUTHY",
+        "TELEFONO": "222 470 1141"
+    },
+    {
+        "# PROVEEDOR": 4,
+        "PROVEEDOR": "BODEGA CAJITITLAN",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": "0004A",
+        "PROVEEDOR": "ARCOMEX RAMIRO MORALES PATIÑO",
+        "TELEFONO": "55 2729 0834"
+    },
+    {
+        "# PROVEEDOR": 5,
+        "PROVEEDOR": "ARCOMEX, ARTE COLONIAL DE MEXICO, S.A DE C.V.",
+        "TELEFONO": "55 4404 3655"
+    },
+    {
+        "# PROVEEDOR": 7,
+        "PROVEEDOR": "CAPROMASA",
+        "TELEFONO": "222 199 5512"
+    },
+    {
+        "# PROVEEDOR": 8,
+        "PROVEEDOR": "CARLOS HERNANDEZ PEREZ",
+        "TELEFONO": "447 111 2881"
+    },
+    {
+        "# PROVEEDOR": 10,
+        "PROVEEDOR": "MIGUEL HIDALGO (CERAMICA LEONESA",
+        "TELEFONO": "477 523 0972"
+    },
+    {
+        "# PROVEEDOR": 11,
+        "PROVEEDOR": "FRIESSEN",
+        "TELEFONO": "33 1246 4635"
+    },
+    {
+        "# PROVEEDOR": 12,
+        "PROVEEDOR": "BORGO NATURAL STONE",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 13,
+        "PROVEEDOR": "GUILLERMO PEREZ RENDON"
+    },
+    {
+        "# PROVEEDOR": 14,
+        "PROVEEDOR": "GERMAN LIMON",
+        "TELEFONO": "33 1449 0314"
+    },
+    {
+        "# PROVEEDOR": 15,
+        "PROVEEDOR": "MOY BARAJAS",
+        "TELEFONO": "33 1107 7117"
+    },
+    {
+        "# PROVEEDOR": 16,
+        "PROVEEDOR": "JAIME QUITERIO MARMURO"
+    },
+    {
+        "# PROVEEDOR": 17,
+        "PROVEEDOR": "JUAN MORALES AGUILAR"
+    },
+    {
+        "# PROVEEDOR": 19,
+        "PROVEEDOR": "MANUEL HERRERA OREJA",
+        "TELEFONO": "33 1017 6900"
+    },
+    {
+        "# PROVEEDOR": 20,
+        "PROVEEDOR": "MARCO TAPETES",
+        "TELEFONO": "222 350 4612"
+    },
+    {
+        "# PROVEEDOR": 21,
+        "PROVEEDOR": "MARMOLES Y TRAVERTINO ROJAS, S.A. DE C.V.",
+        "TELEFONO": "222 374 2925"
+    },
+    {
+        "# PROVEEDOR": 22,
+        "PROVEEDOR": "MIGUEL GODINEZ COLUMNAS",
+        "TELEFONO": "33 1964 1981"
+    },
+    {
+        "# PROVEEDOR": 23,
+        "PROVEEDOR": "MIGUEL TORRES (PORFIDO)",
+        "TELEFONO": "485 102 7060"
+    },
+    {
+        "# PROVEEDOR": 24,
+        "PROVEEDOR": "JUAN NAVARRO",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 25,
+        "PROVEEDOR": "KARLA KARINA GOMEZ DIAZ(NIASA)",
+        "TELEFONO": "33 3589 0134"
+    },
+    {
+        "# PROVEEDOR": 26,
+        "PROVEEDOR": "OPCOM SA DE CV",
+        "TELEFONO": "33 1007 8788"
+    },
+    {
+        "# PROVEEDOR": 27,
+        "PROVEEDOR": "OSBALDO QUITERIO",
+        "TELEFONO": "222 577 2637"
+    },
+    {
+        "# PROVEEDOR": 28,
+        "PROVEEDOR": "OSCAR ATTICA GUADALAJARA"
+    },
+    {
+        "# PROVEEDOR": 29,
+        "PROVEEDOR": "PIDECMAR",
+        "TELEFONO": "33 1738 3579"
+    },
+    {
+        "# PROVEEDOR": 30,
+        "PROVEEDOR": "RAUL PEREZ LIZAMA",
+        "TELEFONO": "33 1077 9345"
+    },
+    {
+        "# PROVEEDOR": 31,
+        "PROVEEDOR": "ROBERTO ALCANTARA"
+    },
+    {
+        "# PROVEEDOR": 32,
+        "PROVEEDOR": "BEATRIZ HERNANDEZ",
+        "TELEFONO": "249 170 7829"
+    },
+    {
+        "# PROVEEDOR": 33,
+        "PROVEEDOR": "VICTOR HERNANDEZ RECINTO",
+        "TELEFONO": "249 119 0870"
+    },
+    {
+        "# PROVEEDOR": 34,
+        "PROVEEDOR": "MIGUEL TORRES ( CHAPALA)"
+    },
+    {
+        "# PROVEEDOR": 35,
+        "PROVEEDOR": "MARIANA PATIÑO"
+    },
+    {
+        "# PROVEEDOR": 36,
+        "PROVEEDOR": "JOSE MARIA SANCHEZ",
+        "TELEFONO": "33 1952 9633"
+    },
+    {
+        "# PROVEEDOR": 37,
+        "PROVEEDOR": "JUAN M PATIÑO (HNO LILI",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 38,
+        "PROVEEDOR": "MARBLOCK",
+        "TELEFONO": "33 2046 8945"
+    },
+    {
+        "# PROVEEDOR": 39,
+        "PROVEEDOR": "DISTRIBUIDORA DE MARMOLES"
+    },
+    {
+        "# PROVEEDOR": 40,
+        "PROVEEDOR": "MURO DI PIETRA",
+        "TELEFONO": "33 1612 6719"
+    },
+    {
+        "# PROVEEDOR": 41,
+        "PROVEEDOR": "RAUL ALEJANDRO CAMARENA (TARIMAS",
+        "TELEFONO": "33 1602 2266"
+    },
+    {
+        "# PROVEEDOR": 42,
+        "PROVEEDOR": "EL RANERO",
+        "TELEFONO": "474 737 9242"
+    },
+    {
+        "# PROVEEDOR": 43,
+        "PROVEEDOR": "VICTOR HUGO VAZQUEZ"
+    },
+    {
+        "# PROVEEDOR": 44,
+        "PROVEEDOR": "ALFREDO ANGEL BECERRA",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 45,
+        "PROVEEDOR": "CANTERAS CREATIVAS SA DE CV",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 46,
+        "PROVEEDOR": "JUAN PABLO SALCEDO",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 47,
+        "PROVEEDOR": "ORLANDO FIGURAS",
+        "TELEFONO": "344 104 9145"
+    },
+    {
+        "# PROVEEDOR": 48,
+        "PROVEEDOR": "GUADALUPE ROJO",
+        "TELEFONO": "33 2113 5875"
+    },
+    {
+        "# PROVEEDOR": 49,
+        "PROVEEDOR": "DAVID BARRON",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 50,
+        "PROVEEDOR": "ALFONSO NISSINO",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 51,
+        "PROVEEDOR": "MOY CHILAR",
+        "TELEFONO": "33 3809 4451"
+    },
+    {
+        "# PROVEEDOR": 52,
+        "PROVEEDOR": "PLANTA GDL MIGUEL GODINEZ",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 53,
+        "PROVEEDOR": "JAVIER LOPEZ",
+        "TELEFONO": "33 3968 3711"
+    },
+    {
+        "# PROVEEDOR": 54,
+        "PROVEEDOR": "MARMUSA",
+        "TELEFONO": "33 1458 0617"
+    },
+    {
+        "# PROVEEDOR": 55,
+        "PROVEEDOR": "EDUARDO ORTEGA MERIDA",
+        "TELEFONO": "999 163 6096"
+    },
+    {
+        "# PROVEEDOR": 56,
+        "PROVEEDOR": "PIEDRA LEGENDARIA (EZEQUIEL ARANDA",
+        "TELEFONO": "222 614 7942"
+    },
+    {
+        "# PROVEEDOR": 57,
+        "PROVEEDOR": "TENERIFE",
+        "TELEFONO": "33 1610 3924"
+    },
+    {
+        "# PROVEEDOR": 58,
+        "PROVEEDOR": "CERAMICA LEONESA",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 59,
+        "PROVEEDOR": "GONZALO QUINTANAR",
+        "TELEFONO": "773 153 2051"
+    },
+    {
+        "# PROVEEDOR": 60,
+        "PROVEEDOR": "CHAVA SANCHEZ",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 61,
+        "PROVEEDOR": "ALEJANDRO CRUZ TLALPUJAHUA",
+        "TELEFONO": "417 123 8346"
+    },
+    {
+        "# PROVEEDOR": 62,
+        "PROVEEDOR": "ISIDRO TORRES EL CHIDO",
+        "TELEFONO": "33 3187 2925"
+    },
+    {
+        "# PROVEEDOR": 63,
+        "PROVEEDOR": "SIMON BARAJAS EL MOLCA",
+        "TELEFONO": "33 1110 1858"
+    },
+    {
+        "# PROVEEDOR": 64,
+        "PROVEEDOR": "JESUS GUZMAN (CHUY TROZO",
+        "TELEFONO": "33 1003 2883"
+    },
+    {
+        "# PROVEEDOR": 65,
+        "PROVEEDOR": "GRANITOS Y MARMOLES (ARMANDO PEREZ",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 66,
+        "PROVEEDOR": "MARMOLUX",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 67,
+        "PROVEEDOR": "NACHO PIÑON",
+        "TELEFONO": "33 1949 0803"
+    },
+    {
+        "# PROVEEDOR": 68,
+        "PROVEEDOR": "PABLO CESAR ZAMORA",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 69,
+        "PROVEEDOR": "JOSE BARAJAS",
+        "TELEFONO": "33 3018 0711"
+    },
+    {
+        "# PROVEEDOR": 70,
+        "PROVEEDOR": "SALVADOR LIZAMA",
+        "TELEFONO": "33 3207 0032"
+    },
+    {
+        "# PROVEEDOR": 71,
+        "PROVEEDOR": "SAN AGUSTIN BODEGA",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 72,
+        "PROVEEDOR": "FRANCISCO JAVIER PEREZ LIZAMA",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 73,
+        "PROVEEDOR": "SALOMON GI",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 74,
+        "PROVEEDOR": "MARBLOCK",
+        "TELEFONO": "33 2046 8945"
+    },
+    {
+        "# PROVEEDOR": 75,
+        "PROVEEDOR": "JUAN MORALES",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 76,
+        "PROVEEDOR": "FLETES GUADALAJARA MERIDA SA DE CV",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 77,
+        "PROVEEDOR": "MIGUEL MURILLO",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 78,
+        "PROVEEDOR": "COMERCIALIZADORA LESINIUS SA DE CV",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 79,
+        "PROVEEDOR": "TERMINADOS Y ACCESORIOS CONSTRUCTIVOS BETA SA DE CV",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 80,
+        "PROVEEDOR": "ISIDRO RODRIGUEZ (EL CHIDO",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 81,
+        "PROVEEDOR": "JOSE(EL LOCO",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 82,
+        "PROVEEDOR": "ABRAHAM (SAN ANDRES",
+        "TELEFONO": "33 5305 3190"
+    },
+    {
+        "# PROVEEDOR": 83,
+        "PROVEEDOR": "MAURICIO LISBOA",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 84,
+        "PROVEEDOR": "FACE STONE",
+        "TELEFONO": ""
+    },
+    {
+        "# PROVEEDOR": 85,
+        "PROVEEDOR": "BALDO LOGISTICO Y TRANSPORTE",
+        "TELEFONO": "33 1181 9730"
+    },
+    {
+        "# PROVEEDOR": 86,
+        "PROVEEDOR": "CHELI",
+        "TELEFONO": ""
+    }
+]

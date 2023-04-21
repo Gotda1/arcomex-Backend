@@ -1,0 +1,1622 @@
+[
+    {
+        "NUEVO CODIGO": "APG20",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA PEGATOP GRIS 20KG",
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 81.9
+    },
+    {
+        "NUEVO CODIGO": "APMG20G",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA PEGAMARMOL GRIS 20KG",
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 99.14
+    },
+    {
+        "NUEVO CODIGO": "APMG20B",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA PEGAMARMOL BCO 20KG",
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 107.76
+    },
+    {
+        "NUEVO CODIGO": "APVG20",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA PEGAVITRO GRIS 20KG",
+        "STOCK MIN": 10,
+        "STOCK MAX": 15,
+        "PRECIO": 159.48
+    },
+    {
+        "NUEVO CODIGO": "APVB20",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA PEGAVITRO BCO 20KG",
+        "STOCK MIN": 10,
+        "STOCK MAX": 15,
+        "PRECIO": 168.1
+    },
+    {
+        "NUEVO CODIGO": "APG10",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA POLIMOR GRIS 10KG",
+        "STOCK MIN": 10,
+        "STOCK MAX": 15,
+        "PRECIO": 172.41
+    },
+    {
+        "NUEVO CODIGO": "APB10",
+        "UNIDAD": "PZA",
+        "NOMBRE": "ADHESIVO NIASA POLIMOR BCO 10KG",
+        "STOCK MIN": 10,
+        "STOCK MAX": 15,
+        "PRECIO": 181.04
+    },
+    {
+        "NUEVO CODIGO": "FBN7.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH BARRO FLAM NEGRA 7.5X25X01",
+        "LARGO": 25,
+        "ANCHO": 7.5,
+        "STOCK MIN": "S/E",
+        "STOCK MAX": "S/E",
+        "PRECIO": 241.38
+    },
+    {
+        "NUEVO CODIGO": "FBR7.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH BARRO FLAM.ROJA 7.5X25X01",
+        "LARGO": 25,
+        "ANCHO": 7.5,
+        "STOCK MIN": "S/E",
+        "STOCK MAX": "S/E",
+        "PRECIO": 241.38
+    },
+    {
+        "NUEVO CODIGO": "FBNA7.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH BARRO NATURAL 7.5X25X01",
+        "LARGO": 25,
+        "ANCHO": 7.5,
+        "STOCK MIN": "S/E",
+        "STOCK MAX": "S/E",
+        "PRECIO": 232.76
+    },
+    {
+        "NUEVO CODIGO": "FCA5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH CANTERMURO ARCOIRIS 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 413.79
+    },
+    {
+        "NUEVO CODIGO": "FCGR5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH CANTERMURO GAL ROJO 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 301.72
+    },
+    {
+        "NUEVO CODIGO": "FCM5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH CANTERMURO NEGRO 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 301.72
+    },
+    {
+        "NUEVO CODIGO": "FG35X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH DP GRAFFITO 35X18",
+        "LARGO": 35,
+        "ANCHO": 5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 758.62
+    },
+    {
+        "NUEVO CODIGO": "FMB5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH MARMURO BCO BEGO 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 413.79
+    },
+    {
+        "NUEVO CODIGO": "FMD5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH MARMURO DORADO 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FMJ5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH MARMURO JASPE 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FMTB5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH MARMURO TRAV. BEIGE 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FMTR5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH MARMURO TRAV. ROJO 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FMTO5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH MARMURO TRAV. ORO 5X15",
+        "LARGO": 15,
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FPG10",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH PIEDRIN BCA GALARZA 10XLL",
+        "ANCHO": 10,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 293.1
+    },
+    {
+        "NUEVO CODIGO": "FPO10",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH PIEDRIN ORO VIEJO 10XLL",
+        "ANCHO": 10,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FPST10",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH PIEDRIN STO TOMAS 10XLL",
+        "ANCHO": 10,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 344.83
+    },
+    {
+        "NUEVO CODIGO": "FPT10",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH PIEDRIN TLAYUA 10XLL",
+        "ANCHO": 10,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 310.34
+    },
+    {
+        "NUEVO CODIGO": "FRG5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA BCA GALARZA 5XLL",
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 387.93
+    },
+    {
+        "NUEVO CODIGO": "FRA10XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA SAN ANDRES 10XLL",
+        "ANCHO": 10,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FRAVA5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA VERDE AQUA 5XLL",
+        "ANCHO": 5,
+        "STOCK MIN": 75,
+        "STOCK MAX": 100,
+        "PRECIO": 387.93
+    },
+    {
+        "NUEVO CODIGO": "FRD5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA DIAMANTINA 5XLL",
+        "ANCHO": 5,
+        "STOCK MIN": 75,
+        "STOCK MAX": 100,
+        "PRECIO": 474.14
+    },
+    {
+        "NUEVO CODIGO": "FRNP5X15",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA NEGRA PIZARRA 5X15",
+        "LARGO": 15,
+        "ANCHO": 15,
+        "STOCK MIN": 75,
+        "STOCK MAX": 100,
+        "PRECIO": 474.14
+    },
+    {
+        "NUEVO CODIGO": "FRNP5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA NEGRA PRETO 5XLL",
+        "ANCHO": 5,
+        "STOCK MIN": 75,
+        "STOCK MAX": 100,
+        "PRECIO": 387.93
+    },
+    {
+        "NUEVO CODIGO": "FOE3XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA OREJA ELEFANTE 3XLL",
+        "ANCHO": 3,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 318.97
+    },
+    {
+        "NUEVO CODIGO": "FOE5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA OREJA ELEFANTE 5XLL",
+        "ANCHO": 5,
+        "STOCK MIN": 50,
+        "STOCK MAX": 70,
+        "PRECIO": 310.34
+    },
+    {
+        "NUEVO CODIGO": "FOE10XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA OREJA ELEFANTE 10XLL",
+        "ANCHO": 10,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 310.34
+    },
+    {
+        "NUEVO CODIGO": "FSA3XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA SAN ANDRES 3XLL",
+        "ANCHO": 3,
+        "STOCK MIN": 15,
+        "STOCK MAX": 25,
+        "PRECIO": 405.17
+    },
+    {
+        "NUEVO CODIGO": "FSA5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH RAJUELA SAN ANDRES 5XLL",
+        "ANCHO": 5,
+        "STOCK MIN": 15,
+        "STOCK MAX": 25,
+        "PRECIO": 396.55
+    },
+    {
+        "NUEVO CODIGO": "FSI5XLL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "FACH SANTORINI INFINITY 5 X LL",
+        "ANCHO": 5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 650
+    },
+    {
+        "NUEVO CODIGO": "LG30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GRIS 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LG40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GRIS 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LG40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GRIS 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGE",
+        "UNIDAD": "PZA",
+        "NOMBRE": "PEDIDO ESPECIAL GRIS",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LM30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO MOSTAZA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LM40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO MOSTAZA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LM40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO MOSTAZA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LMPE",
+        "NOMBRE": "PEDIDO ESPECIAL MOSTAZA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LN30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO NARANJA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LN40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO NARANJA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LN40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO NARANJA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LNE",
+        "UNIDAD": "PZA",
+        "NOMBRE": "PEDIDO ESPECIAL NARANJA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LNA30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO NEGRA AMERICA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LNA40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO NEGRA AMERICA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 250,
+        "STOCK MAX": 300,
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LNA40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO NEGRA AMERICA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 350,
+        "STOCK MAX": 400,
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LNAE",
+        "NOMBRE": "PEDIDO ESPECIAL NEGRA AMERICA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LBE30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA ESPERANZA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 258.62
+    },
+    {
+        "NUEVO CODIGO": "LBE40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA ESPERANZA 40X40X02\r\n",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 258.62
+    },
+    {
+        "NUEVO CODIGO": "LBE40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA ESPERANZA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 280.17
+    },
+    {
+        "NUEVO CODIGO": "LBEE",
+        "NOMBRE": "PEDIDO ESPECIAL BCA ESPERANZA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LP30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO PIÑON 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 194.83
+    },
+    {
+        "NUEVO CODIGO": "LP40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO PIÑON 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 194.83
+    },
+    {
+        "NUEVO CODIGO": "LP40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO PIÑON 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 100,
+        "STOCK MAX": 150,
+        "PRECIO": 194.83
+    },
+    {
+        "NUEVO CODIGO": "LPE",
+        "NOMBRE": "PEDIDO ESPECIAL PIÑON",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LPC40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO PIÑON CAFE 40X60X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LPC40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO PIÑON CAFE 40X40X02\r\n",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LPC30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO PIÑON CAFE 30X30X02\r\n",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 206.9
+    },
+    {
+        "NUEVO CODIGO": "LPCE",
+        "NOMBRE": "PEDIDO ESPECIAL PIÑON CAFÉ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LR30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO ROSA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LR40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO ROSA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LR40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO ROSA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LRE",
+        "NOMBRE": "PEDIDO ESPECIAL LAMINADO ROSA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LBM30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA MEXICANA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 370.69
+    },
+    {
+        "NUEVO CODIGO": "LBM40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA MEXICANA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 370.69
+    },
+    {
+        "NUEVO CODIGO": "LBM40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA MEXICANA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 370.69
+    },
+    {
+        "NUEVO CODIGO": "LBME",
+        "NOMBRE": "PEDIDO ESPECIAL BCA MEXICANA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LBP30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA PACHUCA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 318.97
+    },
+    {
+        "NUEVO CODIGO": "LBP40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA PACHUCA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 318.97
+    },
+    {
+        "NUEVO CODIGO": "LBP40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA PACHUCA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LMTE",
+        "NOMBRE": "PEDIDO ESPECIAL BCA PACHUCA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LBT30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA TINAJERO 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LBT40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA TINAJERO 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LBT40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BCA TINAJERO 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LBTE",
+        "NOMBRE": "PEDIDO ESPECIAL BCA TINAJERO",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LB30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BRONCE 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LB40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BRONCE 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LB40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO BRONCE 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LBE",
+        "NOMBRE": "PEDIDO ESPECIAL BRONCE",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LCII30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO CAFE II 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 193.97
+    },
+    {
+        "NUEVO CODIGO": "LCII40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO CAFE II 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 193.97
+    },
+    {
+        "NUEVO CODIGO": "LCII40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO CAFE II 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 193.97
+    },
+    {
+        "NUEVO CODIGO": "LCIIE",
+        "NOMBRE": "PEDIDO ESPECIAL CAFÉ II",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LGC30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GALINDO CAFE 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGC40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GALINDO CAFE 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGC40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GALINDO CAFE 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 100,
+        "STOCK MAX": 150,
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGCE",
+        "NOMBRE": "PEDIDO ESPECIAL GALINDO CAFÉ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LGR30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GALINDO ROJO 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGR40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GALINDO ROJO 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGR40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO GALINDO ROJO 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 228.45
+    },
+    {
+        "NUEVO CODIGO": "LGRE",
+        "NOMBRE": "PEDIDO ESPECIAL GALINDO ROJO",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "LBA30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LOSETA DE BARRO 30X30X01",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/E",
+        "STOCK MAX": "S/E",
+        "PRECIO": 224.14
+    },
+    {
+        "NUEVO CODIGO": "LBA15X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LOSETA DE BARRO 15X30X01",
+        "LARGO": 30,
+        "ANCHO": 15,
+        "STOCK MIN": "S/E",
+        "STOCK MAX": "S/E",
+        "PRECIO": 215.52
+    },
+    {
+        "NUEVO CODIGO": "LC30.5X30.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO CONCHUELA 30.5X30.5X1.3",
+        "LARGO": 30.5,
+        "ANCHO": 30.5,
+        "STOCK MIN": 100,
+        "STOCK MAX": 100,
+        "PRECIO": 357.56
+    },
+    {
+        "NUEVO CODIGO": "LC40.6X40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO CONCHUELA 40.6X40.6X1.3",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": 200,
+        "STOCK MAX": 200,
+        "PRECIO": 405.17
+    },
+    {
+        "NUEVO CODIGO": "LIG",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR BCA GALARZA",
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 215.52
+    },
+    {
+        "NUEVO CODIGO": "LIP",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR PIÑON LISA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 86.21
+    },
+    {
+        "NUEVO CODIGO": "LIS",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR SAN ANDRES",
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 163.8
+    },
+    {
+        "NUEVO CODIGO": "LISP",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR SANGRE DE PICHON ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 172.41
+    },
+    {
+        "NUEVO CODIGO": "LIT",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR TLAYUA",
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 224.14
+    },
+    {
+        "NUEVO CODIGO": "LIVM",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR VERDE MIXTECA",
+        "STOCK MIN": 75,
+        "STOCK MAX": 100,
+        "PRECIO": 224.14
+    },
+    {
+        "NUEVO CODIGO": "LID",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR DIAMANTINA",
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 258.62
+    },
+    {
+        "NUEVO CODIGO": "LIGL",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR GRIS LISA ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 86.21
+    },
+    {
+        "NUEVO CODIGO": "LINP",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR NEGRA PIZARRA",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LIOE",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR OREJA ELEFANTE",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 137.93
+    },
+    {
+        "NUEVO CODIGO": "LIOV",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAJA IRREGULAR ORO VIEJO",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 336.21
+    },
+    {
+        "NUEVO CODIGO": "LM40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO MADERA IN 40X60X1.5",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 650
+    },
+    {
+        "NUEVO CODIGO": "LRGC30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO GRIS PC 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRGC40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO GRIS PC 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 150,
+        "STOCK MAX": 200,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRGC40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO GRIS PC 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 200,
+        "STOCK MAX": 300,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRNA30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PA 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRNA40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PA 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRNA40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PA 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 100,
+        "STOCK MAX": 150,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRNC30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PC 30X30X02",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 50,
+        "STOCK MAX": 75,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRNC40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PC 40X40X02",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 100,
+        "STOCK MAX": 150,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LRNC40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO RECINTO NEGRO PC 40X60X02",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 150,
+        "STOCK MAX": 200,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LT30.5X30.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO TICUL 30.5X30.5X1.3",
+        "LARGO": 30.5,
+        "ANCHO": 30.5,
+        "STOCK MIN": 350,
+        "STOCK MAX": 350,
+        "PRECIO": 357.76
+    },
+    {
+        "NUEVO CODIGO": "LT40.6X40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "LAMINADO TICUL 40.6X40.6X1.3",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": 250,
+        "STOCK MAX": 250,
+        "PRECIO": 405.17
+    },
+    {
+        "NUEVO CODIGO": "MA40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL ARENA 40XLLX01",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 474.14
+    },
+    {
+        "NUEVO CODIGO": "MA50",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL ARENA 50 X 90",
+        "LARGO": 90,
+        "ANCHO": 50,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "MD30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MALLA CUADRO 5 DOMINO 30 X 30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 0
+    },
+    {
+        "NUEVO CODIGO": "MCT30.5X30.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL CAFE TABACO 30.5X30.5X01",
+        "LARGO": 30.5,
+        "ANCHO": 30.5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 413.79
+    },
+    {
+        "NUEVO CODIGO": "MCT40.6X40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL CAFÉ TABACO 40.6X40.6X01",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 456.9
+    },
+    {
+        "NUEVO CODIGO": "ML40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL LISBOA 40.60 X LL",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 340
+    },
+    {
+        "NUEVO CODIGO": "ML50.75",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL LISBOA 50.75 X 91.35",
+        "LARGO": 91.35,
+        "ANCHO": 50.75,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 520
+    },
+    {
+        "NUEVO CODIGO": "MST30.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL STO TOMAS 30.5X30.5X01",
+        "LARGO": 30.5,
+        "ANCHO": 30.5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 387.93
+    },
+    {
+        "NUEVO CODIGO": "MST40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL STO TOMAS 40.6X40.6X01",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 422.41
+    },
+    {
+        "NUEVO CODIGO": "MST61",
+        "UNIDAD": "MT2",
+        "NOMBRE": "MARMOL STO TOMAS 30.5X61X01",
+        "LARGO": 61,
+        "ANCHO": 30.5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 422.41
+    },
+    {
+        "NUEVO CODIGO": "MTA30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TROCHADO ARCOIRIS 30 X 30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTST30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO STO TOMAS 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTB30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO TRAV. BEIGE 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTR30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO TRAV. ROJO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTBB30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO BCO BEGO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTBE30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO BCO BELAGIO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTCT30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO CAFE TABACO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTP30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO COLA PESCADO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTD30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO DORADO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTN30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO NEGRO 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTO30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TRONCHADO ONIX 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "MTRE30",
+        "UNIDAD": "PZA",
+        "NOMBRE": "MALLA TROCHADO RECINTO 30 X 30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 73.28
+    },
+    {
+        "NUEVO CODIGO": "PMB",
+        "UNIDAD": "PZA",
+        "NOMBRE": "PIEDRA DE MARMOL BLANCA 1 1/2\"  20KG ",
+        "STOCK MIN": 5,
+        "STOCK MAX": 10,
+        "PRECIO": 172.42
+    },
+    {
+        "NUEVO CODIGO": "PMA",
+        "UNIDAD": "PZA",
+        "NOMBRE": "PIEDRA DE MARMOL AMARILLA 1 1/2\"  20KG ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 241.38
+    },
+    {
+        "NUEVO CODIGO": "PMN",
+        "UNIDAD": "PZA",
+        "NOMBRE": "PIEDRA DE MARMOL NEGRA 1 1/2\"  20KG ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 241.38
+    },
+    {
+        "NUEVO CODIGO": "PMR",
+        "UNIDAD": "PZA",
+        "NOMBRE": "PIEDRA DE MARMOL ROSA 1 1/2\"  20KG ",
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 241.38
+    },
+    {
+        "NUEVO CODIGO": "RBG30X30",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO BCA GALARZA 30X30",
+        "LARGO": 30,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 431.04
+    },
+    {
+        "NUEVO CODIGO": "RBG30X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO BCA GALARZA 30X60",
+        "LARGO": 60,
+        "ANCHO": 30,
+        "STOCK MIN": 25,
+        "STOCK MAX": 50,
+        "PRECIO": 431.04
+    },
+    {
+        "NUEVO CODIGO": "RBG40X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO BCA GALARZA 40X40",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": 50,
+        "STOCK MAX": 100,
+        "PRECIO": 431.04
+    },
+    {
+        "NUEVO CODIGO": "RBG40X60",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO BCA GALARZA 40X60",
+        "LARGO": 60,
+        "ANCHO": 40,
+        "STOCK MIN": 150,
+        "STOCK MAX": 200,
+        "PRECIO": 431.04
+    },
+    {
+        "NUEVO CODIGO": "ROE10",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO OREJA ELEFANTE 10X10",
+        "LARGO": 10,
+        "ANCHO": 10,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 336.21
+    },
+    {
+        "NUEVO CODIGO": "ROE20",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO OREJA ELEFANTE 20X20",
+        "LARGO": 20,
+        "ANCHO": 20,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 336.21
+    },
+    {
+        "NUEVO CODIGO": "ROE20X40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO OREJA ELEFANTE 20X40",
+        "LARGO": 40,
+        "ANCHO": 20,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 353.45
+    },
+    {
+        "NUEVO CODIGO": "ROE40",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO OREJA ELEFANTE 40X40",
+        "LARGO": 40,
+        "ANCHO": 40,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 379.21
+    },
+    {
+        "NUEVO CODIGO": "RSA10",
+        "UNIDAD": "MT2",
+        "NOMBRE": "RUSTICO SAN ANDRES 10X10 ",
+        "LARGO": 10,
+        "ANCHO": 10,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 448.28
+    },
+    {
+        "NUEVO CODIGO": "SM1",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO MORADO 1 LT",
+        "STOCK MIN": 10,
+        "STOCK MAX": 10,
+        "PRECIO": 241.38
+    },
+    {
+        "NUEVO CODIGO": "SM4",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO MORADO 4 LT",
+        "STOCK MIN": 6,
+        "STOCK MAX": 8,
+        "PRECIO": 775.86
+    },
+    {
+        "NUEVO CODIGO": "SM19",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO MORADO 19 LT",
+        "STOCK MIN": 3,
+        "STOCK MAX": 4,
+        "PRECIO": 3318.97
+    },
+    {
+        "NUEVO CODIGO": "SN1",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO NARANJA 1 LT",
+        "STOCK MIN": 10,
+        "STOCK MAX": 10,
+        "PRECIO": 215.52
+    },
+    {
+        "NUEVO CODIGO": "SN4",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO NARANJA 4 LT ",
+        "STOCK MIN": 6,
+        "STOCK MAX": 8,
+        "PRECIO": 663.79
+    },
+    {
+        "NUEVO CODIGO": "SN19",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO NARANJA  19 LT",
+        "STOCK MIN": 3,
+        "STOCK MAX": 4,
+        "PRECIO": 2758.62
+    },
+    {
+        "NUEVO CODIGO": "SNE1",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO NEGRO 1 LT",
+        "STOCK MIN": 10,
+        "STOCK MAX": 10,
+        "PRECIO": 215.52
+    },
+    {
+        "NUEVO CODIGO": "SNE4",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO NEGRO 4 LT",
+        "STOCK MIN": 8,
+        "STOCK MAX": 12,
+        "PRECIO": 663.79
+    },
+    {
+        "NUEVO CODIGO": "SNE19",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO NEGRO 19 LT",
+        "STOCK MIN": 6,
+        "STOCK MAX": 10,
+        "PRECIO": 2758.62
+    },
+    {
+        "NUEVO CODIGO": "SV1",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO VERDE 1 LT",
+        "STOCK MIN": 10,
+        "STOCK MAX": 10,
+        "PRECIO": 215.52
+    },
+    {
+        "NUEVO CODIGO": "SV4",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO VERDE 4 LT ",
+        "STOCK MIN": 6,
+        "STOCK MAX": 8,
+        "PRECIO": 663.79
+    },
+    {
+        "NUEVO CODIGO": "SV19",
+        "UNIDAD": "LT",
+        "NOMBRE": "SELLADOR DOMO VERDE 19 LT",
+        "STOCK MIN": 3,
+        "STOCK MAX": 4,
+        "PRECIO": 2758.62
+    },
+    {
+        "NUEVO CODIGO": "LTF30.3",
+        "UNIDAD": "MT2",
+        "NOMBRE": "TRAVERTINO FIORITO 30.3X30.5X01",
+        "LARGO": 30.5,
+        "ANCHO": 30.5,
+        "STOCK MIN": 150,
+        "STOCK MAX": 200,
+        "PRECIO": 284.48
+    },
+    {
+        "NUEVO CODIGO": "LTF40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "TRAVERTINO FIORITO 40.6X40.6X01",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": 150,
+        "STOCK MAX": 200,
+        "PRECIO": 327.59
+    },
+    {
+        "NUEVO CODIGO": "LTRO30.5",
+        "UNIDAD": "MT2",
+        "NOMBRE": "TRAVERTINO ROJO 30.5X30.5X01",
+        "LARGO": 30.5,
+        "ANCHO": 30.5,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 413.79
+    },
+    {
+        "NUEVO CODIGO": "LTRO40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "TRAVERTINO ROJO 40.6X40.6X01",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 456.9
+    },
+    {
+        "NUEVO CODIGO": "LTR40.6",
+        "UNIDAD": "MT2",
+        "NOMBRE": "TRAVERTINO ROMA 40.6X40.6X01",
+        "LARGO": 40.6,
+        "ANCHO": 40.6,
+        "STOCK MIN": "S/P",
+        "STOCK MAX": "S/P",
+        "PRECIO": 387.93
+    }
+]

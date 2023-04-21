@@ -1,0 +1,128 @@
+[
+    {
+        "CÓDIGO": "FB1 ",
+        "NOMBRE": " FACH BARRO FLAMEADA NEGRA ",
+        "MEDIDA CM": "7.5X25X01",
+        "PESO": "17 Kg",
+        "PRECIO X M2": 241.38,
+        "IVA": 38.6208,
+        "TOTAL": 280.0008
+    },
+    {
+        "CÓDIGO": "FB2 ",
+        "NOMBRE": "FACH BARRO FLAMEADA ROJA ",
+        "MEDIDA CM": "7.5X25X01",
+        "PESO": "17 Kg",
+        "PRECIO X M2": 241.38,
+        "IVA": 38.6208,
+        "TOTAL": 280.0008
+    },
+    {
+        "CÓDIGO": "FB3 ",
+        "NOMBRE": "FACH BARRO RUSTICA NATURAL",
+        "MEDIDA CM": "7.5X25X01",
+        "PESO": "17 Kg",
+        "PRECIO X M2": 232.76,
+        "IVA": 37.2416,
+        "TOTAL": 270.0016
+    },
+    {
+        "CÓDIGO": "FC1",
+        "NOMBRE": " FACH CANTERMURO ARCOIRIS",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 KG",
+        "PRECIO X M2": 413.79,
+        "IVA": 66.2064,
+        "TOTAL": 479.9964
+    },
+    {
+        "CÓDIGO": "FC2",
+        "NOMBRE": " FACH CANTERMURO GAL ROJO",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 KG",
+        "PRECIO X M2": 301.72,
+        "IVA": 48.275200000000005,
+        "TOTAL": 349.9952
+    },
+    {
+        "CÓDIGO": "FC3",
+        "NOMBRE": " FACH CANTERMURO GAL CAFÉ ",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 KG",
+        "PRECIO X M2": 301.72,
+        "IVA": 48.275200000000005,
+        "TOTAL": 349.9952
+    },
+    {
+        "CÓDIGO": "FC4",
+        "NOMBRE": " FACH CANTERMURO LIMÓN",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 KG",
+        "PRECIO X M2": 301.72,
+        "IVA": 48.275200000000005,
+        "TOTAL": 349.9952
+    },
+    {
+        "CÓDIGO": "FC5",
+        "NOMBRE": "FACH CANTERMURO NEGRO",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 KG",
+        "PRECIO X M2": 301.72,
+        "IVA": 48.275200000000005,
+        "TOTAL": 349.9952
+    },
+    {
+        "CÓDIGO": "FM1 ",
+        "NOMBRE": "FACH MARMURO BCO BEGO",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 Kg",
+        "PRECIO X M2": 413.79,
+        "IVA": 66.2064,
+        "TOTAL": 479.9964
+    },
+    {
+        "CÓDIGO": "FM2",
+        "NOMBRE": "FACH MARMURO DORADO",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 Kg",
+        "PRECIO X M2": 396.55,
+        "IVA": 63.448,
+        "TOTAL": 459.998
+    },
+    {
+        "CÓDIGO": "FM3",
+        "NOMBRE": " FACH MARMURO JASPE",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 Kg",
+        "PRECIO X M2": 396.55,
+        "IVA": 63.448,
+        "TOTAL": 459.998
+    },
+    {
+        "CÓDIGO": "FM4",
+        "NOMBRE": "FACH TRAV. BEIGE",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 Kg",
+        "PRECIO X M2": 396.55,
+        "IVA": 63.448,
+        "TOTAL": 459.998
+    },
+    {
+        "CÓDIGO": "FM5",
+        "NOMBRE": "FACH TRAV. ROJO",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 Kg",
+        "PRECIO X M2": 396.55,
+        "IVA": 63.448,
+        "TOTAL": 459.998
+    },
+    {
+        "CÓDIGO": "FM6",
+        "NOMBRE": "FACH TRAV ORO",
+        "MEDIDA CM": "5X15",
+        "PESO": "40 Kg",
+        "PRECIO X M2": 396.55,
+        "IVA": 63.448,
+        "TOTAL": 459.998
+    }
+]

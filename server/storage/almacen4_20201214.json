@@ -1,0 +1,73 @@
+
+[
+    {
+        "clave": "LBG",
+        "producto": "LAJA IRREGULAR BCA GALARZA",
+        "existencias": "79.0000"
+    },
+    {
+        "clave": "LPL",
+        "producto": "LAJA IRREGULAR PIÑON LISA",
+        "existencias": "20.0000"
+    },
+    {
+        "clave": "LPR",
+        "producto": "LAJA IRREGULAR PIÑÓN RUSTICA",
+        "existencias": "1.5000"
+    },
+    {
+        "clave": "LSA",
+        "producto": "LAJA IRREGULAR SAN ANDRES",
+        "existencias": "67.0000"
+    },
+    {
+        "clave": "LT",
+        "producto": "LAJA IRREGULAR TLAYUA",
+        "existencias": "33.0000"
+    },
+    {
+        "clave": "LVM",
+        "producto": "LAJA IRREGULAR VERDE MIXTECA",
+        "existencias": "55.0000"
+    },
+    {
+        "clave": "LSA5A9",
+        "producto": "LAJA SAN ANDRES GRUESA 5 A 9 CM",
+        "existencias": "73.0000"
+    },
+    {
+        "clave": "LBT",
+        "producto": "LAJA IRREGULAR BCA TINAJERO LISA",
+        "existencias": "8.0000"
+    },
+    {
+        "clave": "LD",
+        "producto": "LAJA IRREGULAR DIAMANTINA",
+        "existencias": "37.2000"
+    },
+    {
+        "clave": "LNP",
+        "producto": "LAJA IRREGULAR NEGRA PIZARRA",
+        "existencias": "67.0000"
+    },
+    {
+        "clave": "LOE",
+        "producto": "LAJA IRREGULAR OREJA ELEFANTE",
+        "existencias": "9.0000"
+    },
+    {
+        "clave": "LP",
+        "producto": "LAJA PAJA",
+        "existencias": "21.6000"
+    },
+    {
+        "clave": "R42020ESP5",
+        "producto": "RUSTICO SAN ANDRES 20X20 5 A 9 CM",
+        "existencias": "44.0000"
+    },
+    {
+        "clave": "R43030ESP5",
+        "producto": "RUSTICO SAN ANDRES 30X30 5 A 9",
+        "existencias": "4.8600"
+    }
+]

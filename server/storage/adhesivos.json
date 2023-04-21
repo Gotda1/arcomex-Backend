@@ -1,0 +1,72 @@
+[
+    {
+        "CÓDIGO": "A1PT20",
+        "NOMBRE": "ADHESIVO NIASA PEGATOP ",
+        "COLOR": "GRIS",
+        "PESO": "20 Kg",
+        "RENDIMIENTO": "2 a 3 M2",
+        "PRECIO X SACO": 81.9,
+        "IVA": 13.104000000000001,
+        "TOTAL": 95.004
+    },
+    {
+        "CÓDIGO": "A2PM20",
+        "NOMBRE": "ADHESIVO PEGAMARMOL ",
+        "COLOR": "GRIS",
+        "PESO": "20 Kg",
+        "RENDIMIENTO": "2 a 3 M2",
+        "PRECIO X SACO": 99.14,
+        "IVA": 15.862400000000001,
+        "TOTAL": 115.0024
+    },
+    {
+        "CÓDIGO": "A3PM20",
+        "NOMBRE": "ADHESIVO NIASA PEGAMARMOL ",
+        "COLOR": "BLANCO",
+        "PESO": "20 Kg",
+        "RENDIMIENTO": "2 a 3 M2",
+        "PRECIO X SACO": 107.76,
+        "IVA": 17.241600000000002,
+        "TOTAL": 125.00160000000001
+    },
+    {
+        "CÓDIGO": "A4PV20",
+        "NOMBRE": "ADHESIVO NIASA PEGAVITRO ",
+        "COLOR": "GRIS",
+        "PESO": "20 Kg",
+        "RENDIMIENTO": "2 a 3 M2",
+        "PRECIO X SACO": 159.48,
+        "IVA": 25.5168,
+        "TOTAL": 184.99679999999998
+    },
+    {
+        "CÓDIGO": "A5PV20",
+        "NOMBRE": "ADHESIVO NIASA PEGAVITRO",
+        "COLOR": "BLANCO",
+        "PESO": "20 Kg",
+        "RENDIMIENTO": "2 a 3 M2",
+        "PRECIO X SACO": 168.1,
+        "IVA": 26.896,
+        "TOTAL": 194.99599999999998
+    },
+    {
+        "CÓDIGO": "A6P10",
+        "NOMBRE": "ADHESIVO NIASA POLIMOR ",
+        "COLOR": "GRIS",
+        "PESO": "10 Kg",
+        "RENDIMIENTO": "1 a 1.5 M2",
+        "PRECIO X SACO": 172.41,
+        "IVA": 27.5856,
+        "TOTAL": 199.9956
+    },
+    {
+        "CÓDIGO": "A7P10",
+        "NOMBRE": "ADHESIVO NIASA POLIMOR ",
+        "COLOR": "BLANCO",
+        "PESO": "10 Kg",
+        "RENDIMIENTO": "1 a 1.5 M2",
+        "PRECIO X SACO": 181.035,
+        "IVA": 28.9656,
+        "TOTAL": 210.0006
+    }
+]
